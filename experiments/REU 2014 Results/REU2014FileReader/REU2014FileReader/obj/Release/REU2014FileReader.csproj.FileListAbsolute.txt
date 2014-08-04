@@ -1,0 +1,6 @@
+d:\users\joey\documents\visual studio 2013\Projects\REU2014FileReader\REU2014FileReader\bin\Release\REU2014FileReader.exe.config
+d:\users\joey\documents\visual studio 2013\Projects\REU2014FileReader\REU2014FileReader\bin\Release\REU2014FileReader.exe
+d:\users\joey\documents\visual studio 2013\Projects\REU2014FileReader\REU2014FileReader\bin\Release\REU2014FileReader.pdb
+d:\users\joey\documents\visual studio 2013\Projects\REU2014FileReader\REU2014FileReader\obj\Release\REU2014FileReader.exe
+d:\users\joey\documents\visual studio 2013\Projects\REU2014FileReader\REU2014FileReader\obj\Release\REU2014FileReader.pdb
+d:\users\joey\documents\visual studio 2013\Projects\REU2014FileReader\REU2014FileReader\obj\Release\REU2014FileReader.csprojResolveAssemblyReference.cache

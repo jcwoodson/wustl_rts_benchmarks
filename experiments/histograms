@@ -1,5 +1,7 @@
 #!/bin/bash
 
+cd /home/joey/git/experiments
+
 ../benchmarks/breadthFirstSearch/deterministicBFS-cilkp/BFSTaskUtil 0 15 0 1000 1000 ../benchmarks/breadthFirstSearch/graphData/data/size1 > histo-BFS-1.txt
 ../benchmarks/breadthFirstSearch/deterministicBFS-cilkp/BFSTaskUtil 0 15 0 10000 1000 ../benchmarks/breadthFirstSearch/graphData/data/size2 > histo-BFS-2.txt
 ../benchmarks/breadthFirstSearch/deterministicBFS-cilkp/BFSTaskUtil 0 15 0 10000 1000 ../benchmarks/breadthFirstSearch/graphData/data/size3 > histo-BFS-3.txt

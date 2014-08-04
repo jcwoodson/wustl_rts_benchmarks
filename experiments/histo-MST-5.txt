@@ -1,0 +1,2082 @@
+PBBS-time: 0.0947
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.096
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.095
+
+PBBS-time: 0.095
+
+PBBS-time: 0.095
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0958
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.136
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0957
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0943
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0966
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.135
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.135
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0959
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0944
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0959
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0942
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0957
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.135
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0944
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.0943
+
+PBBS-time: 0.0958
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.135
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.0944
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0957
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.096
+
+PBBS-time: 0.096
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0957
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0958
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0944
+
+PBBS-time: 0.135
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0944
+
+PBBS-time: 0.0943
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.0942
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0964
+
+PBBS-time: 0.095
+
+PBBS-time: 0.095
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.135
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0961
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.0957
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0957
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0938
+
+PBBS-time: 0.135
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.0944
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.135
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0944
+
+PBBS-time: 0.0944
+
+PBBS-time: 0.135
+
+PBBS-time: 0.0943
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.135
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0943
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.135
+
+PBBS-time: 0.0941
+
+PBBS-time: 0.0943
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.096
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0958
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.135
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.095
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0958
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0958
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0943
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.0942
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0966
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.095
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0941
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.0959
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0943
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0943
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0958
+
+PBBS-time: 0.0942
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0943
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0961
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0942
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0957
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.0942
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.0941
+
+PBBS-time: 0.135
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0942
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.0941
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.096
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0943
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.135
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.0958
+
+PBBS-time: 0.095
+
+PBBS-time: 0.135
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0958
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.135
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0944
+
+PBBS-time: 0.0958
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0943
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.125
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.135
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.095
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0959
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0944
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0943
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.135
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0962
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0944
+
+PBBS-time: 0.0943
+
+PBBS-time: 0.135
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0961
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0957
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0961
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0944
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.095
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0961
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.135
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.096
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0957
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0959
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.135
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0943
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.135
+
+PBBS-time: 0.095
+
+PBBS-time: 0.095
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.135
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0957
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0962
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.095
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.135
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.133
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0943
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0958
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.096
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0958
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.095
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0942
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.134
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0944
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.135
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.095
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0943
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0961
+
+PBBS-time: 0.096
+
+PBBS-time: 0.0942
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0958
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0942
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.136
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0943
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.095
+
+PBBS-time: 0.095
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0957
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0958
+
+PBBS-time: 0.095
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.135
+
+PBBS-time: 0.0944
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0962
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0944
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.0942
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.135
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.135
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.096
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0963
+
+PBBS-time: 0.0957
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.096
+
+PBBS-time: 0.135
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0944
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.0941
+
+PBBS-time: 0.096
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0942
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0958
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0942
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.133
+
+PBBS-time: 0.0959
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.0958
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.135
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.0958
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0957
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0942
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0944
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0942
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.0958
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.135
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.0958
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.133
+
+PBBS-time: 0.096
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.135
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0957
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0944
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.096
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0957
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.095
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.133
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0944
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0958
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0938
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0959
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0957
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.135
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0958
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.0959
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0944
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0945
+
+PBBS-time: 0.0943
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0947
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.0944
+
+PBBS-time: 0.0943
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0956
+
+PBBS-time: 0.0944
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0953
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0944
+
+PBBS-time: 0.135
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.134
+
+PBBS-time: 0.0954
+
+PBBS-time: 0.0957
+
+PBBS-time: 0.095
+
+PBBS-time: 0.0955
+
+PBBS-time: 0.0952
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0946
+
+PBBS-time: 0.0949
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0951
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0948
+
+PBBS-time: 0.0958
+
+PBBS-time: 0.0954
+
+0.195500000 secs <= obs < 0.195600000 secs, count: 2
+0.195700000 secs <= obs < 0.195800000 secs, count: 1
+0.195800000 secs <= obs < 0.195900000 secs, count: 1
+0.195900000 secs <= obs < 0.196000000 secs, count: 5
+0.196000000 secs <= obs < 0.196100000 secs, count: 4
+0.196100000 secs <= obs < 0.196200000 secs, count: 5
+0.196200000 secs <= obs < 0.196300000 secs, count: 8
+0.196300000 secs <= obs < 0.196400000 secs, count: 3
+0.196400000 secs <= obs < 0.196500000 secs, count: 16
+0.196500000 secs <= obs < 0.196600000 secs, count: 15
+0.196600000 secs <= obs < 0.196700000 secs, count: 30
+0.196700000 secs <= obs < 0.196800000 secs, count: 19
+0.196800000 secs <= obs < 0.196900000 secs, count: 18
+0.196900000 secs <= obs < 0.197000000 secs, count: 29
+0.197000000 secs <= obs < 0.197100000 secs, count: 33
+0.197100000 secs <= obs < 0.197200000 secs, count: 37
+0.197200000 secs <= obs < 0.197300000 secs, count: 44
+0.197300000 secs <= obs < 0.197400000 secs, count: 37
+0.197400000 secs <= obs < 0.197500000 secs, count: 38
+0.197500000 secs <= obs < 0.197600000 secs, count: 50
+0.197600000 secs <= obs < 0.197700000 secs, count: 43
+0.197700000 secs <= obs < 0.197800000 secs, count: 32
+0.197800000 secs <= obs < 0.197900000 secs, count: 36
+0.197900000 secs <= obs < 0.198000000 secs, count: 45
+0.198000000 secs <= obs < 0.198100000 secs, count: 46
+0.198100000 secs <= obs < 0.198200000 secs, count: 37
+0.198200000 secs <= obs < 0.198300000 secs, count: 29
+0.198300000 secs <= obs < 0.198400000 secs, count: 17
+0.198400000 secs <= obs < 0.198500000 secs, count: 21
+0.198500000 secs <= obs < 0.198600000 secs, count: 25
+0.198600000 secs <= obs < 0.198700000 secs, count: 14
+0.198700000 secs <= obs < 0.198800000 secs, count: 11
+0.198800000 secs <= obs < 0.198900000 secs, count: 13
+0.198900000 secs <= obs < 0.199000000 secs, count: 5
+0.199000000 secs <= obs < 0.199100000 secs, count: 9
+0.199100000 secs <= obs < 0.199200000 secs, count: 4
+0.199200000 secs <= obs < 0.199300000 secs, count: 5
+0.199300000 secs <= obs < 0.199400000 secs, count: 1
+0.199400000 secs <= obs < 0.199500000 secs, count: 1
+0.199500000 secs <= obs < 0.199600000 secs, count: 2
+0.199700000 secs <= obs < 0.199800000 secs, count: 1
+0.199800000 secs <= obs < 0.199900000 secs, count: 1
+0.205600000 secs <= obs < 0.205700000 secs, count: 1
+0.205700000 secs <= obs < 0.205800000 secs, count: 1
+0.228000000 secs <= obs < 0.228100000 secs, count: 1
+0.230200000 secs <= obs < 0.230300000 secs, count: 1
+0.234900000 secs <= obs < 0.235000000 secs, count: 1
+0.235500000 secs <= obs < 0.235600000 secs, count: 2
+0.235600000 secs <= obs < 0.235700000 secs, count: 1
+0.235800000 secs <= obs < 0.235900000 secs, count: 4
+0.235900000 secs <= obs < 0.236000000 secs, count: 5
+0.236000000 secs <= obs < 0.236100000 secs, count: 8
+0.236100000 secs <= obs < 0.236200000 secs, count: 8
+0.236200000 secs <= obs < 0.236300000 secs, count: 10
+0.236300000 secs <= obs < 0.236400000 secs, count: 11
+0.236400000 secs <= obs < 0.236500000 secs, count: 5
+0.236500000 secs <= obs < 0.236600000 secs, count: 11
+0.236600000 secs <= obs < 0.236700000 secs, count: 11
+0.236700000 secs <= obs < 0.236800000 secs, count: 16
+0.236800000 secs <= obs < 0.236900000 secs, count: 8
+0.236900000 secs <= obs < 0.237000000 secs, count: 14
+0.237000000 secs <= obs < 0.237100000 secs, count: 15
+0.237100000 secs <= obs < 0.237200000 secs, count: 15
+0.237200000 secs <= obs < 0.237300000 secs, count: 4
+0.237300000 secs <= obs < 0.237400000 secs, count: 10
+0.237400000 secs <= obs < 0.237500000 secs, count: 8
+0.237500000 secs <= obs < 0.237600000 secs, count: 2
+0.237600000 secs <= obs < 0.237700000 secs, count: 4
+0.237700000 secs <= obs < 0.237800000 secs, count: 3
+0.237800000 secs <= obs < 0.237900000 secs, count: 9
+0.237900000 secs <= obs < 0.238000000 secs, count: 5
+0.238000000 secs <= obs < 0.238100000 secs, count: 4
+0.238100000 secs <= obs < 0.238200000 secs, count: 2
+0.238200000 secs <= obs < 0.238300000 secs, count: 1
+0.238300000 secs <= obs < 0.238400000 secs, count: 2
+0.238400000 secs <= obs < 0.238500000 secs, count: 1
+0.238500000 secs <= obs < 0.238600000 secs, count: 1
+0.238600000 secs <= obs < 0.238700000 secs, count: 1
+0.238700000 secs <= obs < 0.238800000 secs, count: 1
+Max Observation: 0.238720767 secs
+
+0.000100000 | 0.238720767 | 0.205673451

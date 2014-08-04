@@ -1,0 +1,2066 @@
+from Triangles : PBBS-time: 0.0242
+initializing : PBBS-time: 0.0101
+Start : PBBS-time: 0.00317
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.225
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0109
+PBBS-time: 0.274
+
+from Triangles : PBBS-time: 0.0183
+initializing : PBBS-time: 0.00379
+Start : PBBS-time: 0.00327
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.227
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0114
+PBBS-time: 0.264
+
+from Triangles : PBBS-time: 0.0182
+initializing : PBBS-time: 0.00338
+Start : PBBS-time: 0.00321
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.228
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0106
+PBBS-time: 0.263
+
+from Triangles : PBBS-time: 0.018
+initializing : PBBS-time: 0.00401
+Start : PBBS-time: 0.00326
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.228
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0106
+PBBS-time: 0.264
+
+from Triangles : PBBS-time: 0.0183
+initializing : PBBS-time: 0.00355
+Start : PBBS-time: 0.00322
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.228
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0382
+PBBS-time: 0.291
+
+from Triangles : PBBS-time: 0.0187
+initializing : PBBS-time: 0.00352
+Start : PBBS-time: 0.00319
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.23
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.011
+PBBS-time: 0.266
+
+from Triangles : PBBS-time: 0.0181
+initializing : PBBS-time: 0.00381
+Start : PBBS-time: 0.00322
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.321
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0111
+PBBS-time: 0.357
+
+from Triangles : PBBS-time: 0.0181
+initializing : PBBS-time: 0.0036
+Start : PBBS-time: 0.00324
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.229
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0111
+PBBS-time: 0.265
+
+from Triangles : PBBS-time: 0.0184
+initializing : PBBS-time: 0.00385
+Start : PBBS-time: 0.00326
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.256
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.011
+PBBS-time: 0.293
+
+from Triangles : PBBS-time: 0.0184
+initializing : PBBS-time: 0.00341
+Start : PBBS-time: 0.00322
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.228
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0109
+PBBS-time: 0.264
+
+from Triangles : PBBS-time: 0.0182
+initializing : PBBS-time: 0.0038
+Start : PBBS-time: 0.0032
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.228
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0106
+PBBS-time: 0.264
+
+from Triangles : PBBS-time: 0.0183
+initializing : PBBS-time: 0.00358
+Start : PBBS-time: 0.00322
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.228
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.037
+PBBS-time: 0.29
+
+from Triangles : PBBS-time: 0.018
+initializing : PBBS-time: 0.00334
+Start : PBBS-time: 0.00322
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.229
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.011
+PBBS-time: 0.265
+
+from Triangles : PBBS-time: 0.0182
+initializing : PBBS-time: 0.00355
+Start : PBBS-time: 0.00322
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.228
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0108
+PBBS-time: 0.264
+
+from Triangles : PBBS-time: 0.0181
+initializing : PBBS-time: 0.00349
+Start : PBBS-time: 0.00328
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.228
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0108
+PBBS-time: 0.264
+
+from Triangles : PBBS-time: 0.0183
+initializing : PBBS-time: 0.00323
+Start : PBBS-time: 0.00322
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.261
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.011
+PBBS-time: 0.297
+
+from Triangles : PBBS-time: 0.0184
+initializing : PBBS-time: 0.00324
+Start : PBBS-time: 0.00317
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.228
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0108
+PBBS-time: 0.264
+
+from Triangles : PBBS-time: 0.018
+initializing : PBBS-time: 0.0036
+Start : PBBS-time: 0.00315
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.229
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0107
+PBBS-time: 0.264
+
+from Triangles : PBBS-time: 0.0185
+initializing : PBBS-time: 0.00375
+Start : PBBS-time: 0.00317
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.228
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.011
+PBBS-time: 0.264
+
+from Triangles : PBBS-time: 0.0183
+initializing : PBBS-time: 0.00331
+Start : PBBS-time: 0.00319
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.257
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0109
+PBBS-time: 0.293
+
+from Triangles : PBBS-time: 0.0183
+initializing : PBBS-time: 0.0035
+Start : PBBS-time: 0.00321
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.228
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0114
+PBBS-time: 0.265
+
+from Triangles : PBBS-time: 0.0183
+initializing : PBBS-time: 0.00364
+Start : PBBS-time: 0.00321
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.228
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0109
+PBBS-time: 0.264
+
+from Triangles : PBBS-time: 0.0183
+initializing : PBBS-time: 0.0035
+Start : PBBS-time: 0.00322
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.228
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0111
+PBBS-time: 0.264
+
+from Triangles : PBBS-time: 0.0434
+initializing : PBBS-time: 0.00382
+Start : PBBS-time: 0.00322
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.229
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0108
+PBBS-time: 0.29
+
+from Triangles : PBBS-time: 0.0186
+initializing : PBBS-time: 0.00365
+Start : PBBS-time: 0.00327
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.351
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0109
+PBBS-time: 0.387
+
+from Triangles : PBBS-time: 0.0181
+initializing : PBBS-time: 0.00376
+Start : PBBS-time: 0.00315
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.229
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0106
+PBBS-time: 0.264
+
+from Triangles : PBBS-time: 0.0184
+initializing : PBBS-time: 0.00351
+Start : PBBS-time: 0.00323
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.254
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0111
+PBBS-time: 0.29
+
+from Triangles : PBBS-time: 0.0182
+initializing : PBBS-time: 0.00406
+Start : PBBS-time: 0.0032
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.229
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0105
+PBBS-time: 0.265
+
+from Triangles : PBBS-time: 0.0181
+initializing : PBBS-time: 0.00372
+Start : PBBS-time: 0.00328
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.228
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0109
+PBBS-time: 0.264
+
+from Triangles : PBBS-time: 0.0182
+initializing : PBBS-time: 0.00345
+Start : PBBS-time: 0.00322
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.258
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0107
+PBBS-time: 0.294
+
+from Triangles : PBBS-time: 0.0182
+initializing : PBBS-time: 0.00323
+Start : PBBS-time: 0.00319
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.228
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0114
+PBBS-time: 0.264
+
+from Triangles : PBBS-time: 0.0182
+initializing : PBBS-time: 0.00359
+Start : PBBS-time: 0.00321
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.229
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0109
+PBBS-time: 0.265
+
+from Triangles : PBBS-time: 0.0182
+initializing : PBBS-time: 0.0036
+Start : PBBS-time: 0.00323
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.228
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0115
+PBBS-time: 0.265
+
+from Triangles : PBBS-time: 0.0184
+initializing : PBBS-time: 0.00324
+Start : PBBS-time: 0.00322
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.26
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0108
+PBBS-time: 0.295
+
+from Triangles : PBBS-time: 0.0183
+initializing : PBBS-time: 0.00365
+Start : PBBS-time: 0.0032
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.229
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0105
+PBBS-time: 0.264
+
+from Triangles : PBBS-time: 0.0182
+initializing : PBBS-time: 0.00358
+Start : PBBS-time: 0.00325
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.229
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0111
+PBBS-time: 0.265
+
+from Triangles : PBBS-time: 0.0184
+initializing : PBBS-time: 0.00348
+Start : PBBS-time: 0.00322
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.229
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0107
+PBBS-time: 0.264
+
+from Triangles : PBBS-time: 0.0182
+initializing : PBBS-time: 0.00373
+Start : PBBS-time: 0.00326
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.256
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0107
+PBBS-time: 0.292
+
+from Triangles : PBBS-time: 0.0182
+initializing : PBBS-time: 0.00352
+Start : PBBS-time: 0.00324
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.228
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0109
+PBBS-time: 0.264
+
+from Triangles : PBBS-time: 0.0186
+initializing : PBBS-time: 0.00349
+Start : PBBS-time: 0.00319
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.229
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0108
+PBBS-time: 0.265
+
+from Triangles : PBBS-time: 0.0185
+initializing : PBBS-time: 0.00331
+Start : PBBS-time: 0.00324
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.258
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.011
+PBBS-time: 0.294
+
+from Triangles : PBBS-time: 0.0184
+initializing : PBBS-time: 0.00344
+Start : PBBS-time: 0.00325
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.228
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0109
+PBBS-time: 0.264
+
+from Triangles : PBBS-time: 0.0185
+initializing : PBBS-time: 0.0033
+Start : PBBS-time: 0.0033
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.229
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0109
+PBBS-time: 0.265
+
+from Triangles : PBBS-time: 0.0186
+initializing : PBBS-time: 0.00331
+Start : PBBS-time: 0.00321
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.228
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0106
+PBBS-time: 0.264
+
+from Triangles : PBBS-time: 0.0183
+initializing : PBBS-time: 0.0033
+Start : PBBS-time: 0.00327
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.259
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0111
+PBBS-time: 0.295
+
+from Triangles : PBBS-time: 0.0183
+initializing : PBBS-time: 0.00363
+Start : PBBS-time: 0.00324
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.228
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0114
+PBBS-time: 0.265
+
+from Triangles : PBBS-time: 0.0184
+initializing : PBBS-time: 0.00339
+Start : PBBS-time: 0.00323
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.228
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0107
+PBBS-time: 0.264
+
+from Triangles : PBBS-time: 0.0183
+initializing : PBBS-time: 0.00369
+Start : PBBS-time: 0.00325
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.228
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0113
+PBBS-time: 0.265
+
+from Triangles : PBBS-time: 0.0186
+initializing : PBBS-time: 0.00361
+Start : PBBS-time: 0.0032
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.256
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0114
+PBBS-time: 0.293
+
+from Triangles : PBBS-time: 0.0189
+initializing : PBBS-time: 0.00375
+Start : PBBS-time: 0.00321
+numBad = 190560
+numBad = 140228
+numBad = 124665
+numBad = 94854
+numBad = 64815
+numBad = 43876
+numBad = 29423
+numBad = 20128
+numBad = 13894
+numBad = 9661
+numBad = 6730
+numBad = 4670
+numBad = 3235
+numBad = 2303
+numBad = 1562
+numBad = 1100
+numBad = 798
+numBad = 554
+numBad = 408
+numBad = 290
+numBad = 199
+numBad = 140
+numBad = 96
+numBad = 61
+numBad = 52
+numBad = 38
+numBad = 34
+numBad = 19
+numBad = 12
+numBad = 4
+numBad = 2
+numBad = 0
+refinement : PBBS-time: 0.229
+total points = 771328
+total triangles = 1542636
+finish : PBBS-time: 0.0108
+PBBS-time: 0.266
+
+0.263000000 secs <= obs < 0.264000000 secs, count: 7
+0.264000000 secs <= obs < 0.265000000 secs, count: 22
+0.265000000 secs <= obs < 0.266000000 secs, count: 5
+0.273000000 secs <= obs < 0.274000000 secs, count: 1
+0.290000000 secs <= obs < 0.291000000 secs, count: 3
+0.291000000 secs <= obs < 0.292000000 secs, count: 2
+0.292000000 secs <= obs < 0.293000000 secs, count: 2
+0.293000000 secs <= obs < 0.294000000 secs, count: 2
+0.294000000 secs <= obs < 0.295000000 secs, count: 1
+0.295000000 secs <= obs < 0.296000000 secs, count: 2
+0.296000000 secs <= obs < 0.297000000 secs, count: 1
+0.357000000 secs <= obs < 0.358000000 secs, count: 1
+0.387000000 secs <= obs < 0.388000000 secs, count: 1
+Max Observation: 0.387353287 secs
+
+0.001000000 | 0.387353287 | 0.276335160

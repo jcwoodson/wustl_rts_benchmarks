@@ -1,0 +1,109 @@
+PBBS-time: 8.99e-05
+
+PBBS-time: 8.8e-05
+
+PBBS-time: 8.61e-05
+
+PBBS-time: 8.61e-05
+
+PBBS-time: 8.89e-05
+
+PBBS-time: 8.51e-05
+
+PBBS-time: 8.51e-05
+
+PBBS-time: 8.42e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.51e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.51e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.49e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.42e-05
+
+PBBS-time: 8.39e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.61e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.99e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.42e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.39e-05
+
+PBBS-time: 8.39e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.8e-05
+
+PBBS-time: 8.51e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.18e-05
+
+PBBS-time: 8.8e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.11e-05
+
+0.000190000 secs <= obs < 0.000200000 secs, count: 3
+0.000200000 secs <= obs < 0.000210000 secs, count: 18
+0.000210000 secs <= obs < 0.000220000 secs, count: 18
+0.000220000 secs <= obs < 0.000230000 secs, count: 9
+0.000230000 secs <= obs < 0.000240000 secs, count: 1
+0.000340000 secs <= obs < 0.000350000 secs, count: 1
+Max Observation: 0.000340720 secs
+
+0.000010000 | 0.000340720 | 0.000213596

@@ -1,0 +1,2010 @@
+PBBS-time: 9.08e-05
+
+PBBS-time: 8.61e-05
+
+PBBS-time: 8.42e-05
+
+PBBS-time: 8.49e-05
+
+PBBS-time: 8.42e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.42e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.49e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.32e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.61e-05
+
+PBBS-time: 8.51e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.32e-05
+
+PBBS-time: 8.39e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.8e-05
+
+PBBS-time: 8.61e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.39e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.32e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.39e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.39e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.7e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.61e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.39e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.39e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.42e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.49e-05
+
+PBBS-time: 8.7e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.39e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.18e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.18e-05
+
+PBBS-time: 8.18e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.32e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.61e-05
+
+PBBS-time: 8.39e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.42e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.18e-05
+
+PBBS-time: 8.39e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.49e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.18e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 7.89e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.39e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 7.89e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.32e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.89e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.39e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.42e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.51e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.39e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.32e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.18e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.51e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 7.92e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.39e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.51e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.18e-05
+
+PBBS-time: 7.89e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.39e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.92e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.89e-05
+
+PBBS-time: 8.39e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.39e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.39e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.49e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 7.92e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.89e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.42e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.51e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.42e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.39e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.39e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.61e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.89e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.42e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 7.89e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 7.89e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.39e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 7.92e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.89e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 7.89e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.89e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.42e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.39e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.8e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.89e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 7.92e-05
+
+PBBS-time: 8.49e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.39e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.39e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 7.92e-05
+
+PBBS-time: 8.32e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.92e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.89e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.42e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.51e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.42e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.42e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 7.89e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.89e-05
+
+PBBS-time: 7.92e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.18e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.39e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.42e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.32e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.18e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.39e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.39e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.49e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 7.92e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.49e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.39e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.89e-05
+
+PBBS-time: 8.51e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.32e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.32e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.18e-05
+
+PBBS-time: 7.89e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.32e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.49e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.32e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.39e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.49e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.51e-05
+
+PBBS-time: 8.39e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.89e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.32e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.42e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 7.89e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.92e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.18e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.61e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.39e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.42e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.32e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 7.89e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.49e-05
+
+PBBS-time: 7.92e-05
+
+PBBS-time: 8.61e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.39e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 7.92e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 7.89e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 7.89e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.42e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 7.89e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.18e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 7.92e-05
+
+PBBS-time: 8.18e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.89e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.42e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.42e-05
+
+PBBS-time: 7.89e-05
+
+PBBS-time: 8.3e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 7.89e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 7.92e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.01e-05
+
+PBBS-time: 8.08e-05
+
+PBBS-time: 7.99e-05
+
+PBBS-time: 8.11e-05
+
+PBBS-time: 8.2e-05
+
+PBBS-time: 8.32e-05
+
+PBBS-time: 7.89e-05
+
+PBBS-time: 8.01e-05
+
+0.000180000 secs <= obs < 0.000190000 secs, count: 1
+0.000190000 secs <= obs < 0.000200000 secs, count: 176
+0.000200000 secs <= obs < 0.000210000 secs, count: 642
+0.000210000 secs <= obs < 0.000220000 secs, count: 170
+0.000220000 secs <= obs < 0.000230000 secs, count: 8
+0.000230000 secs <= obs < 0.000240000 secs, count: 2
+0.000290000 secs <= obs < 0.000300000 secs, count: 1
+Max Observation: 0.000298786 secs
+
+0.000010000 | 0.000298786 | 0.000205261

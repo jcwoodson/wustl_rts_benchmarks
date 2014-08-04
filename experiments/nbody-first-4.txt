@@ -1,0 +1,484 @@
+build tree : PBBS-time: 0.00107
+up sweep : PBBS-time: 0.00305
+interactions : PBBS-time: 0.000551
+do Indirect : PBBS-time: 0.017
+down sweep : PBBS-time: 0.00323
+do Direct : PBBS-time: 0.0254
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0505
+
+build tree : PBBS-time: 0.00101
+up sweep : PBBS-time: 0.00275
+interactions : PBBS-time: 0.000498
+do Indirect : PBBS-time: 0.017
+down sweep : PBBS-time: 0.00318
+do Direct : PBBS-time: 0.0247
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0492
+
+build tree : PBBS-time: 0.000945
+up sweep : PBBS-time: 0.00283
+interactions : PBBS-time: 0.000558
+do Indirect : PBBS-time: 0.0173
+down sweep : PBBS-time: 0.00315
+do Direct : PBBS-time: 0.0256
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0506
+
+build tree : PBBS-time: 0.00102
+up sweep : PBBS-time: 0.00276
+interactions : PBBS-time: 0.00049
+do Indirect : PBBS-time: 0.0167
+down sweep : PBBS-time: 0.00311
+do Direct : PBBS-time: 0.0253
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0495
+
+build tree : PBBS-time: 0.00104
+up sweep : PBBS-time: 0.00288
+interactions : PBBS-time: 0.000482
+do Indirect : PBBS-time: 0.0173
+down sweep : PBBS-time: 0.00313
+do Direct : PBBS-time: 0.0249
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0499
+
+build tree : PBBS-time: 0.000983
+up sweep : PBBS-time: 0.00278
+interactions : PBBS-time: 0.000524
+do Indirect : PBBS-time: 0.0169
+down sweep : PBBS-time: 0.00312
+do Direct : PBBS-time: 0.0261
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0506
+
+build tree : PBBS-time: 0.00106
+up sweep : PBBS-time: 0.00274
+interactions : PBBS-time: 0.000559
+do Indirect : PBBS-time: 0.0168
+down sweep : PBBS-time: 0.00318
+do Direct : PBBS-time: 0.0229
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0474
+
+build tree : PBBS-time: 0.00102
+up sweep : PBBS-time: 0.00273
+interactions : PBBS-time: 0.00046
+do Indirect : PBBS-time: 0.0177
+down sweep : PBBS-time: 0.00316
+do Direct : PBBS-time: 0.0263
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0516
+
+build tree : PBBS-time: 0.000989
+up sweep : PBBS-time: 0.0029
+interactions : PBBS-time: 0.000548
+do Indirect : PBBS-time: 0.0174
+down sweep : PBBS-time: 0.00318
+do Direct : PBBS-time: 0.0258
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0509
+
+build tree : PBBS-time: 0.000972
+up sweep : PBBS-time: 0.00273
+interactions : PBBS-time: 0.00054
+do Indirect : PBBS-time: 0.0173
+down sweep : PBBS-time: 0.00315
+do Direct : PBBS-time: 0.0247
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0495
+
+build tree : PBBS-time: 0.00101
+up sweep : PBBS-time: 0.00276
+interactions : PBBS-time: 0.000577
+do Indirect : PBBS-time: 0.0177
+down sweep : PBBS-time: 0.00317
+do Direct : PBBS-time: 0.0223
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0477
+
+build tree : PBBS-time: 0.000987
+up sweep : PBBS-time: 0.00281
+interactions : PBBS-time: 0.000592
+do Indirect : PBBS-time: 0.0177
+down sweep : PBBS-time: 0.00315
+do Direct : PBBS-time: 0.0226
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.048
+
+build tree : PBBS-time: 0.000957
+up sweep : PBBS-time: 0.00281
+interactions : PBBS-time: 0.000655
+do Indirect : PBBS-time: 0.0174
+down sweep : PBBS-time: 0.00315
+do Direct : PBBS-time: 0.0228
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0479
+
+build tree : PBBS-time: 0.00104
+up sweep : PBBS-time: 0.00283
+interactions : PBBS-time: 0.00063
+do Indirect : PBBS-time: 0.0168
+down sweep : PBBS-time: 0.00314
+do Direct : PBBS-time: 0.0249
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0494
+
+build tree : PBBS-time: 0.000984
+up sweep : PBBS-time: 0.00278
+interactions : PBBS-time: 0.000626
+do Indirect : PBBS-time: 0.0472
+down sweep : PBBS-time: 0.00311
+do Direct : PBBS-time: 0.0252
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0801
+
+build tree : PBBS-time: 0.00105
+up sweep : PBBS-time: 0.00288
+interactions : PBBS-time: 0.000637
+do Indirect : PBBS-time: 0.0172
+down sweep : PBBS-time: 0.00313
+do Direct : PBBS-time: 0.0239
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0489
+
+build tree : PBBS-time: 0.00112
+up sweep : PBBS-time: 0.00293
+interactions : PBBS-time: 0.000668
+do Indirect : PBBS-time: 0.017
+down sweep : PBBS-time: 0.00315
+do Direct : PBBS-time: 0.0252
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0502
+
+build tree : PBBS-time: 0.00107
+up sweep : PBBS-time: 0.00277
+interactions : PBBS-time: 0.000528
+do Indirect : PBBS-time: 0.0168
+down sweep : PBBS-time: 0.00315
+do Direct : PBBS-time: 0.0222
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0466
+
+build tree : PBBS-time: 0.000995
+up sweep : PBBS-time: 0.00279
+interactions : PBBS-time: 0.000713
+do Indirect : PBBS-time: 0.0183
+down sweep : PBBS-time: 0.00318
+do Direct : PBBS-time: 0.0231
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0492
+
+build tree : PBBS-time: 0.00101
+up sweep : PBBS-time: 0.00273
+interactions : PBBS-time: 0.000567
+do Indirect : PBBS-time: 0.0183
+down sweep : PBBS-time: 0.00314
+do Direct : PBBS-time: 0.0241
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0499
+
+build tree : PBBS-time: 0.001
+up sweep : PBBS-time: 0.00281
+interactions : PBBS-time: 0.000688
+do Indirect : PBBS-time: 0.0169
+down sweep : PBBS-time: 0.00319
+do Direct : PBBS-time: 0.0237
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0484
+
+build tree : PBBS-time: 0.000971
+up sweep : PBBS-time: 0.00271
+interactions : PBBS-time: 0.000549
+do Indirect : PBBS-time: 0.0168
+down sweep : PBBS-time: 0.00315
+do Direct : PBBS-time: 0.0243
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0486
+
+build tree : PBBS-time: 0.001
+up sweep : PBBS-time: 0.00279
+interactions : PBBS-time: 0.00073
+do Indirect : PBBS-time: 0.0176
+down sweep : PBBS-time: 0.00327
+do Direct : PBBS-time: 0.0254
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.051
+
+build tree : PBBS-time: 0.00102
+up sweep : PBBS-time: 0.00283
+interactions : PBBS-time: 0.000654
+do Indirect : PBBS-time: 0.0164
+down sweep : PBBS-time: 0.00308
+do Direct : PBBS-time: 0.0242
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0483
+
+build tree : PBBS-time: 0.00102
+up sweep : PBBS-time: 0.00269
+interactions : PBBS-time: 0.00065
+do Indirect : PBBS-time: 0.0171
+down sweep : PBBS-time: 0.00324
+do Direct : PBBS-time: 0.0232
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0481
+
+build tree : PBBS-time: 0.00103
+up sweep : PBBS-time: 0.00269
+interactions : PBBS-time: 0.000593
+do Indirect : PBBS-time: 0.0166
+down sweep : PBBS-time: 0.00316
+do Direct : PBBS-time: 0.0232
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0474
+
+build tree : PBBS-time: 0.000967
+up sweep : PBBS-time: 0.00282
+interactions : PBBS-time: 0.000744
+do Indirect : PBBS-time: 0.0173
+down sweep : PBBS-time: 0.00314
+do Direct : PBBS-time: 0.0252
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0503
+
+build tree : PBBS-time: 0.000992
+up sweep : PBBS-time: 0.0027
+interactions : PBBS-time: 0.000646
+do Indirect : PBBS-time: 0.0169
+down sweep : PBBS-time: 0.00309
+do Direct : PBBS-time: 0.026
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0505
+
+build tree : PBBS-time: 0.00102
+up sweep : PBBS-time: 0.00268
+interactions : PBBS-time: 0.000752
+do Indirect : PBBS-time: 0.0173
+down sweep : PBBS-time: 0.00313
+do Direct : PBBS-time: 0.0236
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0487
+
+build tree : PBBS-time: 0.00102
+up sweep : PBBS-time: 0.00276
+interactions : PBBS-time: 0.000694
+do Indirect : PBBS-time: 0.0168
+down sweep : PBBS-time: 0.00307
+do Direct : PBBS-time: 0.0232
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0477
+
+build tree : PBBS-time: 0.00104
+up sweep : PBBS-time: 0.00279
+interactions : PBBS-time: 0.00063
+do Indirect : PBBS-time: 0.0175
+down sweep : PBBS-time: 0.00328
+do Direct : PBBS-time: 0.0245
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0499
+
+build tree : PBBS-time: 0.000973
+up sweep : PBBS-time: 0.00275
+interactions : PBBS-time: 0.000553
+do Indirect : PBBS-time: 0.0175
+down sweep : PBBS-time: 0.0032
+do Direct : PBBS-time: 0.0229
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0481
+
+build tree : PBBS-time: 0.000998
+up sweep : PBBS-time: 0.00275
+interactions : PBBS-time: 0.000701
+do Indirect : PBBS-time: 0.0171
+down sweep : PBBS-time: 0.00322
+do Direct : PBBS-time: 0.0214
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0464
+
+build tree : PBBS-time: 0.000989
+up sweep : PBBS-time: 0.00267
+interactions : PBBS-time: 0.000647
+do Indirect : PBBS-time: 0.0176
+down sweep : PBBS-time: 0.00307
+do Direct : PBBS-time: 0.0651
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0903
+
+build tree : PBBS-time: 0.00103
+up sweep : PBBS-time: 0.00281
+interactions : PBBS-time: 0.00065
+do Indirect : PBBS-time: 0.017
+down sweep : PBBS-time: 0.00321
+do Direct : PBBS-time: 0.0224
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0473
+
+build tree : PBBS-time: 0.00104
+up sweep : PBBS-time: 0.00279
+interactions : PBBS-time: 0.000736
+do Indirect : PBBS-time: 0.0169
+down sweep : PBBS-time: 0.00324
+do Direct : PBBS-time: 0.0218
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0466
+
+build tree : PBBS-time: 0.00101
+up sweep : PBBS-time: 0.00268
+interactions : PBBS-time: 0.000648
+do Indirect : PBBS-time: 0.0167
+down sweep : PBBS-time: 0.00316
+do Direct : PBBS-time: 0.0234
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0477
+
+build tree : PBBS-time: 0.00103
+up sweep : PBBS-time: 0.00268
+interactions : PBBS-time: 0.000703
+do Indirect : PBBS-time: 0.0167
+down sweep : PBBS-time: 0.00308
+do Direct : PBBS-time: 0.0228
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0471
+
+build tree : PBBS-time: 0.000965
+up sweep : PBBS-time: 0.00277
+interactions : PBBS-time: 0.000659
+do Indirect : PBBS-time: 0.0174
+down sweep : PBBS-time: 0.00321
+do Direct : PBBS-time: 0.0242
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0494
+
+build tree : PBBS-time: 0.000947
+up sweep : PBBS-time: 0.00276
+interactions : PBBS-time: 0.000638
+do Indirect : PBBS-time: 0.0166
+down sweep : PBBS-time: 0.00318
+do Direct : PBBS-time: 0.0253
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0495
+
+build tree : PBBS-time: 0.00101
+up sweep : PBBS-time: 0.00273
+interactions : PBBS-time: 0.000635
+do Indirect : PBBS-time: 0.0167
+down sweep : PBBS-time: 0.00312
+do Direct : PBBS-time: 0.0262
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0505
+
+build tree : PBBS-time: 0.00103
+up sweep : PBBS-time: 0.00277
+interactions : PBBS-time: 0.00062
+do Indirect : PBBS-time: 0.0182
+down sweep : PBBS-time: 0.00314
+do Direct : PBBS-time: 0.0227
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0486
+
+build tree : PBBS-time: 0.00102
+up sweep : PBBS-time: 0.00266
+interactions : PBBS-time: 0.000651
+do Indirect : PBBS-time: 0.017
+down sweep : PBBS-time: 0.00311
+do Direct : PBBS-time: 0.0239
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0485
+
+build tree : PBBS-time: 0.000995
+up sweep : PBBS-time: 0.0027
+interactions : PBBS-time: 0.000648
+do Indirect : PBBS-time: 0.017
+down sweep : PBBS-time: 0.00316
+do Direct : PBBS-time: 0.027
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0516
+
+build tree : PBBS-time: 0.00099
+up sweep : PBBS-time: 0.00272
+interactions : PBBS-time: 0.000714
+do Indirect : PBBS-time: 0.0172
+down sweep : PBBS-time: 0.00323
+do Direct : PBBS-time: 0.0243
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0493
+
+build tree : PBBS-time: 0.00099
+up sweep : PBBS-time: 0.00275
+interactions : PBBS-time: 0.000648
+do Indirect : PBBS-time: 0.0172
+down sweep : PBBS-time: 0.00311
+do Direct : PBBS-time: 0.0224
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0472
+
+build tree : PBBS-time: 0.000988
+up sweep : PBBS-time: 0.00272
+interactions : PBBS-time: 0.000715
+do Indirect : PBBS-time: 0.0172
+down sweep : PBBS-time: 0.00317
+do Direct : PBBS-time: 0.026
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0509
+
+build tree : PBBS-time: 0.00102
+up sweep : PBBS-time: 0.00271
+interactions : PBBS-time: 0.000671
+do Indirect : PBBS-time: 0.017
+down sweep : PBBS-time: 0.00319
+do Direct : PBBS-time: 0.0233
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0481
+
+build tree : PBBS-time: 0.000999
+up sweep : PBBS-time: 0.00282
+interactions : PBBS-time: 0.000667
+do Indirect : PBBS-time: 0.017
+down sweep : PBBS-time: 0.00319
+do Direct : PBBS-time: 0.0235
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0483
+
+build tree : PBBS-time: 0.00105
+up sweep : PBBS-time: 0.00276
+interactions : PBBS-time: 0.000697
+do Indirect : PBBS-time: 0.0173
+down sweep : PBBS-time: 0.00317
+do Direct : PBBS-time: 0.023
+Direct = 18099164 Indirect = 2888 Boxes = 110
+PBBS-time: 0.0481
+
+0.046500000 secs <= obs < 0.046600000 secs, count: 1
+0.046600000 secs <= obs < 0.046700000 secs, count: 1
+0.046700000 secs <= obs < 0.046800000 secs, count: 1
+0.047200000 secs <= obs < 0.047300000 secs, count: 1
+0.047300000 secs <= obs < 0.047400000 secs, count: 2
+0.047400000 secs <= obs < 0.047500000 secs, count: 1
+0.047500000 secs <= obs < 0.047600000 secs, count: 1
+0.047700000 secs <= obs < 0.047800000 secs, count: 1
+0.047800000 secs <= obs < 0.047900000 secs, count: 2
+0.048000000 secs <= obs < 0.048100000 secs, count: 1
+0.048100000 secs <= obs < 0.048200000 secs, count: 1
+0.048200000 secs <= obs < 0.048300000 secs, count: 4
+0.048400000 secs <= obs < 0.048500000 secs, count: 3
+0.048600000 secs <= obs < 0.048700000 secs, count: 1
+0.048700000 secs <= obs < 0.048800000 secs, count: 2
+0.048800000 secs <= obs < 0.048900000 secs, count: 1
+0.049000000 secs <= obs < 0.049100000 secs, count: 1
+0.049300000 secs <= obs < 0.049400000 secs, count: 2
+0.049400000 secs <= obs < 0.049500000 secs, count: 1
+0.049500000 secs <= obs < 0.049600000 secs, count: 3
+0.049600000 secs <= obs < 0.049700000 secs, count: 2
+0.050000000 secs <= obs < 0.050100000 secs, count: 3
+0.050300000 secs <= obs < 0.050400000 secs, count: 2
+0.050600000 secs <= obs < 0.050700000 secs, count: 3
+0.050700000 secs <= obs < 0.050800000 secs, count: 2
+0.051000000 secs <= obs < 0.051100000 secs, count: 2
+0.051100000 secs <= obs < 0.051200000 secs, count: 1
+0.051600000 secs <= obs < 0.051700000 secs, count: 1
+0.051700000 secs <= obs < 0.051800000 secs, count: 1
+0.080100000 secs <= obs < 0.080200000 secs, count: 1
+0.090400000 secs <= obs < 0.090500000 secs, count: 1
+Max Observation: 0.090455806 secs
+
+0.000100000 | 0.090455806 | 0.050525074

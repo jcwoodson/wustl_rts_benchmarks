@@ -1,0 +1,2029 @@
+PBBS-time: 0.00084
+
+PBBS-time: 0.000864
+
+PBBS-time: 0.000857
+
+PBBS-time: 0.000864
+
+PBBS-time: 0.000836
+
+PBBS-time: 0.000816
+
+PBBS-time: 0.000828
+
+PBBS-time: 0.000833
+
+PBBS-time: 0.000863
+
+PBBS-time: 0.000847
+
+PBBS-time: 0.000847
+
+PBBS-time: 0.000853
+
+PBBS-time: 0.000857
+
+PBBS-time: 0.000808
+
+PBBS-time: 0.000845
+
+PBBS-time: 0.00084
+
+PBBS-time: 0.00084
+
+PBBS-time: 0.000854
+
+PBBS-time: 0.000827
+
+PBBS-time: 0.000844
+
+PBBS-time: 0.000806
+
+PBBS-time: 0.000858
+
+PBBS-time: 0.00088
+
+PBBS-time: 0.000838
+
+PBBS-time: 0.000844
+
+PBBS-time: 0.000824
+
+PBBS-time: 0.000824
+
+PBBS-time: 0.000803
+
+PBBS-time: 0.000883
+
+PBBS-time: 0.000872
+
+PBBS-time: 0.000824
+
+PBBS-time: 0.000813
+
+PBBS-time: 0.000818
+
+PBBS-time: 0.00086
+
+PBBS-time: 0.000858
+
+PBBS-time: 0.00086
+
+PBBS-time: 0.000851
+
+PBBS-time: 0.000837
+
+PBBS-time: 0.000863
+
+PBBS-time: 0.000833
+
+PBBS-time: 0.000868
+
+PBBS-time: 0.00086
+
+PBBS-time: 0.000851
+
+PBBS-time: 0.000841
+
+PBBS-time: 0.00083
+
+PBBS-time: 0.000848
+
+PBBS-time: 0.000831
+
+PBBS-time: 0.000833
+
+PBBS-time: 0.000814
+
+PBBS-time: 0.000851
+
+PBBS-time: 0.000821
+
+PBBS-time: 0.000824
+
+PBBS-time: 0.000853
+
+PBBS-time: 0.000839
+
+PBBS-time: 0.000836
+
+PBBS-time: 0.000823
+
+PBBS-time: 0.000844
+
+PBBS-time: 0.00086
+
+PBBS-time: 0.000884
+
+PBBS-time: 0.000856
+
+PBBS-time: 0.000831
+
+PBBS-time: 0.000787
+
+PBBS-time: 0.000815
+
+PBBS-time: 0.000858
+
+PBBS-time: 0.000848
+
+PBBS-time: 0.000846
+
+PBBS-time: 0.000821
+
+PBBS-time: 0.00085
+
+PBBS-time: 0.000802
+
+PBBS-time: 0.000831
+
+PBBS-time: 0.000893
+
+PBBS-time: 0.000839
+
+PBBS-time: 0.000863
+
+PBBS-time: 0.000845
+
+PBBS-time: 0.000833
+
+PBBS-time: 0.000836
+
+PBBS-time: 0.000815
+
+PBBS-time: 0.000844
+
+PBBS-time: 0.000815
+
+PBBS-time: 0.000822
+
+PBBS-time: 0.000861
+
+PBBS-time: 0.000839
+
+PBBS-time: 0.000836
+
+PBBS-time: 0.000867
+
+PBBS-time: 0.000851
+
+PBBS-time: 0.00085
+
+PBBS-time: 0.000829
+
+PBBS-time: 0.000794
+
+PBBS-time: 0.00083
+
+PBBS-time: 0.000853
+
+PBBS-time: 0.000864
+
+PBBS-time: 0.000893
+
+PBBS-time: 0.000852
+
+PBBS-time: 0.000823
+
+PBBS-time: 0.000849
+
+PBBS-time: 0.000857
+
+PBBS-time: 0.000823
+
+PBBS-time: 0.000824
+
+PBBS-time: 0.00086
+
+PBBS-time: 0.000829
+
+PBBS-time: 0.00085
+
+PBBS-time: 0.000829
+
+PBBS-time: 0.000838
+
+PBBS-time: 0.000828
+
+PBBS-time: 0.000884
+
+PBBS-time: 0.00085
+
+PBBS-time: 0.000874
+
+PBBS-time: 0.000858
+
+PBBS-time: 0.00086
+
+PBBS-time: 0.000781
+
+PBBS-time: 0.000865
+
+PBBS-time: 0.000858
+
+PBBS-time: 0.000854
+
+PBBS-time: 0.000835
+
+PBBS-time: 0.000806
+
+PBBS-time: 0.00081
+
+PBBS-time: 0.00084
+
+PBBS-time: 0.000876
+
+PBBS-time: 0.000842
+
+PBBS-time: 0.00083
+
+PBBS-time: 0.000858
+
+PBBS-time: 0.000854
+
+PBBS-time: 0.000842
+
+PBBS-time: 0.000882
+
+PBBS-time: 0.000858
+
+PBBS-time: 0.000844
+
+PBBS-time: 0.000861
+
+PBBS-time: 0.000855
+
+PBBS-time: 0.000856
+
+PBBS-time: 0.000886
+
+PBBS-time: 0.00084
+
+PBBS-time: 0.000838
+
+PBBS-time: 0.000842
+
+PBBS-time: 0.000854
+
+PBBS-time: 0.000825
+
+PBBS-time: 0.000858
+
+PBBS-time: 0.000848
+
+PBBS-time: 0.000841
+
+PBBS-time: 0.000824
+
+PBBS-time: 0.000841
+
+PBBS-time: 0.000854
+
+PBBS-time: 0.00084
+
+PBBS-time: 0.00085
+
+PBBS-time: 0.000829
+
+PBBS-time: 0.000845
+
+PBBS-time: 0.000811
+
+PBBS-time: 0.000844
+
+PBBS-time: 0.000865
+
+PBBS-time: 0.000849
+
+PBBS-time: 0.000875
+
+PBBS-time: 0.000844
+
+PBBS-time: 0.00083
+
+PBBS-time: 0.000841
+
+PBBS-time: 0.000853
+
+PBBS-time: 0.000854
+
+PBBS-time: 0.000865
+
+PBBS-time: 0.000829
+
+PBBS-time: 0.000865
+
+PBBS-time: 0.000846
+
+PBBS-time: 0.000845
+
+PBBS-time: 0.000891
+
+PBBS-time: 0.000866
+
+PBBS-time: 0.000819
+
+PBBS-time: 0.000857
+
+PBBS-time: 0.000853
+
+PBBS-time: 0.000848
+
+PBBS-time: 0.000844
+
+PBBS-time: 0.000858
+
+PBBS-time: 0.000883
+
+PBBS-time: 0.000822
+
+PBBS-time: 0.000838
+
+PBBS-time: 0.000846
+
+PBBS-time: 0.000859
+
+PBBS-time: 0.000859
+
+PBBS-time: 0.000843
+
+PBBS-time: 0.000844
+
+PBBS-time: 0.000856
+
+PBBS-time: 0.000829
+
+PBBS-time: 0.000826
+
+PBBS-time: 0.000867
+
+PBBS-time: 0.000854
+
+PBBS-time: 0.000846
+
+PBBS-time: 0.000827
+
+PBBS-time: 0.000872
+
+PBBS-time: 0.000852
+
+PBBS-time: 0.000827
+
+PBBS-time: 0.000884
+
+PBBS-time: 0.000823
+
+PBBS-time: 0.000832
+
+PBBS-time: 0.000852
+
+PBBS-time: 0.000834
+
+PBBS-time: 0.000856
+
+PBBS-time: 0.000845
+
+PBBS-time: 0.000826
+
+PBBS-time: 0.000847
+
+PBBS-time: 0.000867
+
+PBBS-time: 0.000838
+
+PBBS-time: 0.000841
+
+PBBS-time: 0.000854
+
+PBBS-time: 0.000859
+
+PBBS-time: 0.000862
+
+PBBS-time: 0.000825
+
+PBBS-time: 0.000814
+
+PBBS-time: 0.000802
+
+PBBS-time: 0.000883
+
+PBBS-time: 0.000811
+
+PBBS-time: 0.000866
+
+PBBS-time: 0.000844
+
+PBBS-time: 0.000856
+
+PBBS-time: 0.000841
+
+PBBS-time: 0.000825
+
+PBBS-time: 0.00081
+
+PBBS-time: 0.000838
+
+PBBS-time: 0.00082
+
+PBBS-time: 0.000857
+
+PBBS-time: 0.000888
+
+PBBS-time: 0.000848
+
+PBBS-time: 0.000913
+
+PBBS-time: 0.000872
+
+PBBS-time: 0.000864
+
+PBBS-time: 0.000846
+
+PBBS-time: 0.000851
+
+PBBS-time: 0.000848
+
+PBBS-time: 0.000867
+
+PBBS-time: 0.000834
+
+PBBS-time: 0.000875
+
+PBBS-time: 0.000858
+
+PBBS-time: 0.000871
+
+PBBS-time: 0.000855
+
+PBBS-time: 0.000831
+
+PBBS-time: 0.000851
+
+PBBS-time: 0.000832
+
+PBBS-time: 0.000835
+
+PBBS-time: 0.000883
+
+PBBS-time: 0.000851
+
+PBBS-time: 0.00086
+
+PBBS-time: 0.000857
+
+PBBS-time: 0.000824
+
+PBBS-time: 0.000812
+
+PBBS-time: 0.000832
+
+PBBS-time: 0.000851
+
+PBBS-time: 0.00084
+
+PBBS-time: 0.000844
+
+PBBS-time: 0.000844
+
+PBBS-time: 0.000856
+
+PBBS-time: 0.000843
+
+PBBS-time: 0.000824
+
+PBBS-time: 0.000817
+
+PBBS-time: 0.000838
+
+PBBS-time: 0.000817
+
+PBBS-time: 0.000837
+
+PBBS-time: 0.000871
+
+PBBS-time: 0.000805
+
+PBBS-time: 0.000827
+
+PBBS-time: 0.000849
+
+PBBS-time: 0.000852
+
+PBBS-time: 0.000834
+
+PBBS-time: 0.000855
+
+PBBS-time: 0.000818
+
+PBBS-time: 0.000854
+
+PBBS-time: 0.000838
+
+PBBS-time: 0.000832
+
+PBBS-time: 0.000846
+
+PBBS-time: 0.000848
+
+PBBS-time: 0.000819
+
+PBBS-time: 0.000853
+
+PBBS-time: 0.000814
+
+PBBS-time: 0.000814
+
+PBBS-time: 0.000848
+
+PBBS-time: 0.000826
+
+PBBS-time: 0.000834
+
+PBBS-time: 0.000837
+
+PBBS-time: 0.000859
+
+PBBS-time: 0.000828
+
+PBBS-time: 0.000838
+
+PBBS-time: 0.00085
+
+PBBS-time: 0.000802
+
+PBBS-time: 0.000809
+
+PBBS-time: 0.000826
+
+PBBS-time: 0.00085
+
+PBBS-time: 0.000834
+
+PBBS-time: 0.000868
+
+PBBS-time: 0.000839
+
+PBBS-time: 0.000863
+
+PBBS-time: 0.000833
+
+PBBS-time: 0.000812
+
+PBBS-time: 0.000883
+
+PBBS-time: 0.000804
+
+PBBS-time: 0.000823
+
+PBBS-time: 0.000827
+
+PBBS-time: 0.000868
+
+PBBS-time: 0.000859
+
+PBBS-time: 0.00082
+
+PBBS-time: 0.000815
+
+PBBS-time: 0.000831
+
+PBBS-time: 0.000811
+
+PBBS-time: 0.000836
+
+PBBS-time: 0.000833
+
+PBBS-time: 0.000896
+
+PBBS-time: 0.000904
+
+PBBS-time: 0.000856
+
+PBBS-time: 0.000855
+
+PBBS-time: 0.000825
+
+PBBS-time: 0.000811
+
+PBBS-time: 0.000844
+
+PBBS-time: 0.000838
+
+PBBS-time: 0.000823
+
+PBBS-time: 0.000836
+
+PBBS-time: 0.000825
+
+PBBS-time: 0.000814
+
+PBBS-time: 0.000852
+
+PBBS-time: 0.000813
+
+PBBS-time: 0.000822
+
+PBBS-time: 0.000853
+
+PBBS-time: 0.000836
+
+PBBS-time: 0.000837
+
+PBBS-time: 0.000835
+
+PBBS-time: 0.000826
+
+PBBS-time: 0.000833
+
+PBBS-time: 0.000818
+
+PBBS-time: 0.000852
+
+PBBS-time: 0.000843
+
+PBBS-time: 0.00081
+
+PBBS-time: 0.000864
+
+PBBS-time: 0.000827
+
+PBBS-time: 0.000832
+
+PBBS-time: 0.000851
+
+PBBS-time: 0.000811
+
+PBBS-time: 0.000831
+
+PBBS-time: 0.000823
+
+PBBS-time: 0.000841
+
+PBBS-time: 0.000822
+
+PBBS-time: 0.000813
+
+PBBS-time: 0.000826
+
+PBBS-time: 0.00078
+
+PBBS-time: 0.000825
+
+PBBS-time: 0.000869
+
+PBBS-time: 0.000829
+
+PBBS-time: 0.000836
+
+PBBS-time: 0.000801
+
+PBBS-time: 0.000857
+
+PBBS-time: 0.000854
+
+PBBS-time: 0.000856
+
+PBBS-time: 0.000874
+
+PBBS-time: 0.000875
+
+PBBS-time: 0.000823
+
+PBBS-time: 0.000836
+
+PBBS-time: 0.000875
+
+PBBS-time: 0.000871
+
+PBBS-time: 0.000825
+
+PBBS-time: 0.000844
+
+PBBS-time: 0.000833
+
+PBBS-time: 0.000847
+
+PBBS-time: 0.000819
+
+PBBS-time: 0.000848
+
+PBBS-time: 0.000839
+
+PBBS-time: 0.000815
+
+PBBS-time: 0.000842
+
+PBBS-time: 0.00084
+
+PBBS-time: 0.000827
+
+PBBS-time: 0.000835
+
+PBBS-time: 0.00082
+
+PBBS-time: 0.000825
+
+PBBS-time: 0.000859
+
+PBBS-time: 0.000847
+
+PBBS-time: 0.000827
+
+PBBS-time: 0.000845
+
+PBBS-time: 0.000853
+
+PBBS-time: 0.000856
+
+PBBS-time: 0.000823
+
+PBBS-time: 0.000855
+
+PBBS-time: 0.000849
+
+PBBS-time: 0.00082
+
+PBBS-time: 0.000843
+
+PBBS-time: 0.000862
+
+PBBS-time: 0.0008
+
+PBBS-time: 0.00081
+
+PBBS-time: 0.000843
+
+PBBS-time: 0.000832
+
+PBBS-time: 0.00084
+
+PBBS-time: 0.000851
+
+PBBS-time: 0.000845
+
+PBBS-time: 0.000819
+
+PBBS-time: 0.000877
+
+PBBS-time: 0.000888
+
+PBBS-time: 0.000808
+
+PBBS-time: 0.000813
+
+PBBS-time: 0.000843
+
+PBBS-time: 0.000829
+
+PBBS-time: 0.000779
+
+PBBS-time: 0.000818
+
+PBBS-time: 0.00083
+
+PBBS-time: 0.000824
+
+PBBS-time: 0.000879
+
+PBBS-time: 0.000848
+
+PBBS-time: 0.000834
+
+PBBS-time: 0.000825
+
+PBBS-time: 0.00083
+
+PBBS-time: 0.000818
+
+PBBS-time: 0.000819
+
+PBBS-time: 0.000854
+
+PBBS-time: 0.000868
+
+PBBS-time: 0.000854
+
+PBBS-time: 0.000821
+
+PBBS-time: 0.000819
+
+PBBS-time: 0.000842
+
+PBBS-time: 0.000823
+
+PBBS-time: 0.000834
+
+PBBS-time: 0.000831
+
+PBBS-time: 0.00083
+
+PBBS-time: 0.000852
+
+PBBS-time: 0.000842
+
+PBBS-time: 0.000861
+
+PBBS-time: 0.000845
+
+PBBS-time: 0.000838
+
+PBBS-time: 0.000833
+
+PBBS-time: 0.000877
+
+PBBS-time: 0.000821
+
+PBBS-time: 0.000844
+
+PBBS-time: 0.00085
+
+PBBS-time: 0.000815
+
+PBBS-time: 0.000816
+
+PBBS-time: 0.000824
+
+PBBS-time: 0.000842
+
+PBBS-time: 0.00082
+
+PBBS-time: 0.000825
+
+PBBS-time: 0.000837
+
+PBBS-time: 0.000852
+
+PBBS-time: 0.000822
+
+PBBS-time: 0.000823
+
+PBBS-time: 0.000806
+
+PBBS-time: 0.000824
+
+PBBS-time: 0.000834
+
+PBBS-time: 0.00084
+
+PBBS-time: 0.000842
+
+PBBS-time: 0.000857
+
+PBBS-time: 0.000851
+
+PBBS-time: 0.000827
+
+PBBS-time: 0.000854
+
+PBBS-time: 0.000822
+
+PBBS-time: 0.000855
+
+PBBS-time: 0.00083
+
+PBBS-time: 0.00086
+
+PBBS-time: 0.000835
+
+PBBS-time: 0.000827
+
+PBBS-time: 0.000843
+
+PBBS-time: 0.00084
+
+PBBS-time: 0.000809
+
+PBBS-time: 0.000836
+
+PBBS-time: 0.000832
+
+PBBS-time: 0.000858
+
+PBBS-time: 0.000837
+
+PBBS-time: 0.000851
+
+PBBS-time: 0.000806
+
+PBBS-time: 0.000818
+
+PBBS-time: 0.000845
+
+PBBS-time: 0.000833
+
+PBBS-time: 0.000821
+
+PBBS-time: 0.000825
+
+PBBS-time: 0.000869
+
+PBBS-time: 0.000844
+
+PBBS-time: 0.000799
+
+PBBS-time: 0.000835
+
+PBBS-time: 0.000836
+
+PBBS-time: 0.000844
+
+PBBS-time: 0.000832
+
+PBBS-time: 0.00084
+
+PBBS-time: 0.000847
+
+PBBS-time: 0.00082
+
+PBBS-time: 0.00087
+
+PBBS-time: 0.000834
+
+PBBS-time: 0.000852
+
+PBBS-time: 0.000852
+
+PBBS-time: 0.000847
+
+PBBS-time: 0.000819
+
+PBBS-time: 0.00086
+
+PBBS-time: 0.000838
+
+PBBS-time: 0.000879
+
+PBBS-time: 0.000823
+
+PBBS-time: 0.000863
+
+PBBS-time: 0.000831
+
+PBBS-time: 0.000818
+
+PBBS-time: 0.000823
+
+PBBS-time: 0.000814
+
+PBBS-time: 0.000843
+
+PBBS-time: 0.000826
+
+PBBS-time: 0.000842
+
+PBBS-time: 0.000838
+
+PBBS-time: 0.000826
+
+PBBS-time: 0.000833
+
+PBBS-time: 0.000828
+
+PBBS-time: 0.000871
+
+PBBS-time: 0.000806
+
+PBBS-time: 0.000836
+
+PBBS-time: 0.000881
+
+PBBS-time: 0.000831
+
+PBBS-time: 0.000818
+
+PBBS-time: 0.000825
+
+PBBS-time: 0.000869
+
+PBBS-time: 0.000852
+
+PBBS-time: 0.000816
+
+PBBS-time: 0.000858
+
+PBBS-time: 0.00082
+
+PBBS-time: 0.000856
+
+PBBS-time: 0.000837
+
+PBBS-time: 0.000839
+
+PBBS-time: 0.000864
+
+PBBS-time: 0.000842
+
+PBBS-time: 0.00091
+
+PBBS-time: 0.000877
+
+PBBS-time: 0.000866
+
+PBBS-time: 0.000824
+
+PBBS-time: 0.000806
+
+PBBS-time: 0.000865
+
+PBBS-time: 0.000829
+
+PBBS-time: 0.000799
+
+PBBS-time: 0.000832
+
+PBBS-time: 0.000857
+
+PBBS-time: 0.000834
+
+PBBS-time: 0.000853
+
+PBBS-time: 0.000853
+
+PBBS-time: 0.000849
+
+PBBS-time: 0.000807
+
+PBBS-time: 0.000843
+
+PBBS-time: 0.000821
+
+PBBS-time: 0.000842
+
+PBBS-time: 0.000818
+
+PBBS-time: 0.000846
+
+PBBS-time: 0.000864
+
+PBBS-time: 0.000896
+
+PBBS-time: 0.000831
+
+PBBS-time: 0.000822
+
+PBBS-time: 0.00084
+
+PBBS-time: 0.000812
+
+PBBS-time: 0.00085
+
+PBBS-time: 0.000874
+
+PBBS-time: 0.000856
+
+PBBS-time: 0.00087
+
+PBBS-time: 0.000872
+
+PBBS-time: 0.00087
+
+PBBS-time: 0.000853
+
+PBBS-time: 0.000847
+
+PBBS-time: 0.000833
+
+PBBS-time: 0.00081
+
+PBBS-time: 0.000846
+
+PBBS-time: 0.000869
+
+PBBS-time: 0.000818
+
+PBBS-time: 0.000833
+
+PBBS-time: 0.000834
+
+PBBS-time: 0.000814
+
+PBBS-time: 0.000827
+
+PBBS-time: 0.000857
+
+PBBS-time: 0.000855
+
+PBBS-time: 0.000836
+
+PBBS-time: 0.000826
+
+PBBS-time: 0.00084
+
+PBBS-time: 0.000805
+
+PBBS-time: 0.000882
+
+PBBS-time: 0.000866
+
+PBBS-time: 0.000825
+
+PBBS-time: 0.000839
+
+PBBS-time: 0.000796
+
+PBBS-time: 0.000829
+
+PBBS-time: 0.000822
+
+PBBS-time: 0.000875
+
+PBBS-time: 0.000855
+
+PBBS-time: 0.00082
+
+PBBS-time: 0.000813
+
+PBBS-time: 0.000839
+
+PBBS-time: 0.000828
+
+PBBS-time: 0.000841
+
+PBBS-time: 0.000856
+
+PBBS-time: 0.000843
+
+PBBS-time: 0.00082
+
+PBBS-time: 0.000859
+
+PBBS-time: 0.000861
+
+PBBS-time: 0.000822
+
+PBBS-time: 0.000822
+
+PBBS-time: 0.00086
+
+PBBS-time: 0.000835
+
+PBBS-time: 0.000854
+
+PBBS-time: 0.000827
+
+PBBS-time: 0.000876
+
+PBBS-time: 0.000839
+
+PBBS-time: 0.000869
+
+PBBS-time: 0.000821
+
+PBBS-time: 0.000844
+
+PBBS-time: 0.000809
+
+PBBS-time: 0.000814
+
+PBBS-time: 0.000824
+
+PBBS-time: 0.000857
+
+PBBS-time: 0.000854
+
+PBBS-time: 0.000845
+
+PBBS-time: 0.000792
+
+PBBS-time: 0.00082
+
+PBBS-time: 0.000854
+
+PBBS-time: 0.000865
+
+PBBS-time: 0.000884
+
+PBBS-time: 0.00081
+
+PBBS-time: 0.000839
+
+PBBS-time: 0.000852
+
+PBBS-time: 0.000853
+
+PBBS-time: 0.000805
+
+PBBS-time: 0.000808
+
+PBBS-time: 0.000839
+
+PBBS-time: 0.000826
+
+PBBS-time: 0.000849
+
+PBBS-time: 0.000848
+
+PBBS-time: 0.000823
+
+PBBS-time: 0.000857
+
+PBBS-time: 0.000871
+
+PBBS-time: 0.000835
+
+PBBS-time: 0.000848
+
+PBBS-time: 0.000887
+
+PBBS-time: 0.000787
+
+PBBS-time: 0.000819
+
+PBBS-time: 0.000864
+
+PBBS-time: 0.000836
+
+PBBS-time: 0.000851
+
+PBBS-time: 0.000825
+
+PBBS-time: 0.000832
+
+PBBS-time: 0.00084
+
+PBBS-time: 0.000872
+
+PBBS-time: 0.000871
+
+PBBS-time: 0.000836
+
+PBBS-time: 0.000818
+
+PBBS-time: 0.000802
+
+PBBS-time: 0.000808
+
+PBBS-time: 0.000854
+
+PBBS-time: 0.000836
+
+PBBS-time: 0.000846
+
+PBBS-time: 0.000863
+
+PBBS-time: 0.000847
+
+PBBS-time: 0.000815
+
+PBBS-time: 0.000819
+
+PBBS-time: 0.000838
+
+PBBS-time: 0.000848
+
+PBBS-time: 0.000826
+
+PBBS-time: 0.000808
+
+PBBS-time: 0.000856
+
+PBBS-time: 0.000854
+
+PBBS-time: 0.000859
+
+PBBS-time: 0.000826
+
+PBBS-time: 0.000835
+
+PBBS-time: 0.000849
+
+PBBS-time: 0.000851
+
+PBBS-time: 0.000855
+
+PBBS-time: 0.000854
+
+PBBS-time: 0.000839
+
+PBBS-time: 0.000834
+
+PBBS-time: 0.000852
+
+PBBS-time: 0.000846
+
+PBBS-time: 0.000839
+
+PBBS-time: 0.000833
+
+PBBS-time: 0.000847
+
+PBBS-time: 0.000823
+
+PBBS-time: 0.000836
+
+PBBS-time: 0.000825
+
+PBBS-time: 0.000817
+
+PBBS-time: 0.000853
+
+PBBS-time: 0.000848
+
+PBBS-time: 0.000825
+
+PBBS-time: 0.00085
+
+PBBS-time: 0.000839
+
+PBBS-time: 0.000836
+
+PBBS-time: 0.000817
+
+PBBS-time: 0.000823
+
+PBBS-time: 0.000805
+
+PBBS-time: 0.000864
+
+PBBS-time: 0.000835
+
+PBBS-time: 0.000839
+
+PBBS-time: 0.000856
+
+PBBS-time: 0.000833
+
+PBBS-time: 0.000832
+
+PBBS-time: 0.000822
+
+PBBS-time: 0.000843
+
+PBBS-time: 0.000826
+
+PBBS-time: 0.000816
+
+PBBS-time: 0.000879
+
+PBBS-time: 0.000818
+
+PBBS-time: 0.000828
+
+PBBS-time: 0.000843
+
+PBBS-time: 0.000822
+
+PBBS-time: 0.000836
+
+PBBS-time: 0.000803
+
+PBBS-time: 0.00081
+
+PBBS-time: 0.000829
+
+PBBS-time: 0.000845
+
+PBBS-time: 0.000846
+
+PBBS-time: 0.000842
+
+PBBS-time: 0.000857
+
+PBBS-time: 0.000855
+
+PBBS-time: 0.000842
+
+PBBS-time: 0.000854
+
+PBBS-time: 0.00085
+
+PBBS-time: 0.000807
+
+PBBS-time: 0.000852
+
+PBBS-time: 0.000855
+
+PBBS-time: 0.00082
+
+PBBS-time: 0.000809
+
+PBBS-time: 0.000841
+
+PBBS-time: 0.000824
+
+PBBS-time: 0.000842
+
+PBBS-time: 0.000855
+
+PBBS-time: 0.000803
+
+PBBS-time: 0.000818
+
+PBBS-time: 0.000825
+
+PBBS-time: 0.000887
+
+PBBS-time: 0.000876
+
+PBBS-time: 0.000867
+
+PBBS-time: 0.000844
+
+PBBS-time: 0.000821
+
+PBBS-time: 0.000845
+
+PBBS-time: 0.000794
+
+PBBS-time: 0.000835
+
+PBBS-time: 0.00083
+
+PBBS-time: 0.000864
+
+PBBS-time: 0.000858
+
+PBBS-time: 0.000856
+
+PBBS-time: 0.000854
+
+PBBS-time: 0.000845
+
+PBBS-time: 0.000811
+
+PBBS-time: 0.000824
+
+PBBS-time: 0.000827
+
+PBBS-time: 0.000818
+
+PBBS-time: 0.000791
+
+PBBS-time: 0.00085
+
+PBBS-time: 0.000815
+
+PBBS-time: 0.000852
+
+PBBS-time: 0.000843
+
+PBBS-time: 0.000859
+
+PBBS-time: 0.000811
+
+PBBS-time: 0.000818
+
+PBBS-time: 0.000787
+
+PBBS-time: 0.000821
+
+PBBS-time: 0.00079
+
+PBBS-time: 0.000834
+
+PBBS-time: 0.000838
+
+PBBS-time: 0.000818
+
+PBBS-time: 0.000844
+
+PBBS-time: 0.000802
+
+PBBS-time: 0.000839
+
+PBBS-time: 0.000838
+
+PBBS-time: 0.000806
+
+PBBS-time: 0.000821
+
+PBBS-time: 0.000894
+
+PBBS-time: 0.00085
+
+PBBS-time: 0.000816
+
+PBBS-time: 0.000835
+
+PBBS-time: 0.000857
+
+PBBS-time: 0.000835
+
+PBBS-time: 0.000862
+
+PBBS-time: 0.00084
+
+PBBS-time: 0.000847
+
+PBBS-time: 0.000804
+
+PBBS-time: 0.00084
+
+PBBS-time: 0.000831
+
+PBBS-time: 0.000823
+
+PBBS-time: 0.000855
+
+PBBS-time: 0.000852
+
+PBBS-time: 0.000883
+
+PBBS-time: 0.000842
+
+PBBS-time: 0.000836
+
+PBBS-time: 0.000846
+
+PBBS-time: 0.00083
+
+PBBS-time: 0.000809
+
+PBBS-time: 0.000855
+
+PBBS-time: 0.00084
+
+PBBS-time: 0.000828
+
+PBBS-time: 0.000817
+
+PBBS-time: 0.000819
+
+PBBS-time: 0.00087
+
+PBBS-time: 0.000858
+
+PBBS-time: 0.000793
+
+PBBS-time: 0.00086
+
+PBBS-time: 0.000818
+
+PBBS-time: 0.000847
+
+PBBS-time: 0.000841
+
+PBBS-time: 0.000849
+
+PBBS-time: 0.000866
+
+PBBS-time: 0.000811
+
+PBBS-time: 0.000835
+
+PBBS-time: 0.000849
+
+PBBS-time: 0.000865
+
+PBBS-time: 0.000796
+
+PBBS-time: 0.000849
+
+PBBS-time: 0.000812
+
+PBBS-time: 0.000819
+
+PBBS-time: 0.000819
+
+PBBS-time: 0.000836
+
+PBBS-time: 0.000818
+
+PBBS-time: 0.000868
+
+PBBS-time: 0.000827
+
+PBBS-time: 0.000837
+
+PBBS-time: 0.000793
+
+PBBS-time: 0.000809
+
+PBBS-time: 0.000811
+
+PBBS-time: 0.000809
+
+PBBS-time: 0.000845
+
+PBBS-time: 0.000828
+
+PBBS-time: 0.000828
+
+PBBS-time: 0.000853
+
+PBBS-time: 0.000857
+
+PBBS-time: 0.00083
+
+PBBS-time: 0.000803
+
+PBBS-time: 0.000803
+
+PBBS-time: 0.000832
+
+PBBS-time: 0.000809
+
+PBBS-time: 0.000846
+
+PBBS-time: 0.00085
+
+PBBS-time: 0.000841
+
+PBBS-time: 0.000813
+
+PBBS-time: 0.000802
+
+PBBS-time: 0.000837
+
+PBBS-time: 0.000849
+
+PBBS-time: 0.000848
+
+PBBS-time: 0.000865
+
+PBBS-time: 0.000841
+
+PBBS-time: 0.000846
+
+PBBS-time: 0.000858
+
+PBBS-time: 0.000834
+
+PBBS-time: 0.000858
+
+PBBS-time: 0.000814
+
+PBBS-time: 0.000836
+
+PBBS-time: 0.000827
+
+PBBS-time: 0.000858
+
+PBBS-time: 0.000856
+
+PBBS-time: 0.000859
+
+PBBS-time: 0.000837
+
+PBBS-time: 0.000815
+
+PBBS-time: 0.00085
+
+PBBS-time: 0.000837
+
+PBBS-time: 0.000807
+
+PBBS-time: 0.000816
+
+PBBS-time: 0.000851
+
+PBBS-time: 0.00084
+
+PBBS-time: 0.000848
+
+PBBS-time: 0.000895
+
+PBBS-time: 0.000827
+
+PBBS-time: 0.00083
+
+PBBS-time: 0.000817
+
+PBBS-time: 0.000852
+
+PBBS-time: 0.000857
+
+PBBS-time: 0.000809
+
+PBBS-time: 0.00084
+
+PBBS-time: 0.000838
+
+PBBS-time: 0.000818
+
+PBBS-time: 0.000814
+
+PBBS-time: 0.000865
+
+PBBS-time: 0.000842
+
+PBBS-time: 0.000817
+
+PBBS-time: 0.000787
+
+PBBS-time: 0.000771
+
+PBBS-time: 0.000809
+
+PBBS-time: 0.00085
+
+PBBS-time: 0.000831
+
+PBBS-time: 0.000832
+
+PBBS-time: 0.000812
+
+PBBS-time: 0.000823
+
+PBBS-time: 0.000835
+
+PBBS-time: 0.000872
+
+PBBS-time: 0.000803
+
+PBBS-time: 0.000797
+
+PBBS-time: 0.000835
+
+PBBS-time: 0.000825
+
+PBBS-time: 0.000801
+
+PBBS-time: 0.000779
+
+PBBS-time: 0.00083
+
+PBBS-time: 0.00084
+
+PBBS-time: 0.000817
+
+PBBS-time: 0.000787
+
+PBBS-time: 0.000845
+
+PBBS-time: 0.000849
+
+PBBS-time: 0.000838
+
+PBBS-time: 0.000808
+
+PBBS-time: 0.00084
+
+PBBS-time: 0.000824
+
+PBBS-time: 0.000839
+
+PBBS-time: 0.000846
+
+PBBS-time: 0.000853
+
+PBBS-time: 0.000872
+
+PBBS-time: 0.00079
+
+PBBS-time: 0.000834
+
+PBBS-time: 0.000856
+
+PBBS-time: 0.000821
+
+PBBS-time: 0.000866
+
+PBBS-time: 0.000826
+
+PBBS-time: 0.000802
+
+PBBS-time: 0.000819
+
+PBBS-time: 0.000824
+
+PBBS-time: 0.00085
+
+PBBS-time: 0.00088
+
+PBBS-time: 0.000843
+
+PBBS-time: 0.000855
+
+PBBS-time: 0.000859
+
+PBBS-time: 0.000807
+
+PBBS-time: 0.000834
+
+PBBS-time: 0.00084
+
+PBBS-time: 0.000814
+
+PBBS-time: 0.000821
+
+PBBS-time: 0.000814
+
+PBBS-time: 0.000842
+
+PBBS-time: 0.000845
+
+PBBS-time: 0.000844
+
+PBBS-time: 0.000812
+
+PBBS-time: 0.000819
+
+PBBS-time: 0.000876
+
+PBBS-time: 0.000824
+
+PBBS-time: 0.00083
+
+PBBS-time: 0.000821
+
+PBBS-time: 0.000846
+
+PBBS-time: 0.000806
+
+PBBS-time: 0.000813
+
+PBBS-time: 0.000837
+
+PBBS-time: 0.000843
+
+PBBS-time: 0.000834
+
+PBBS-time: 0.000806
+
+PBBS-time: 0.000829
+
+PBBS-time: 0.000831
+
+PBBS-time: 0.000838
+
+PBBS-time: 0.000801
+
+PBBS-time: 0.000838
+
+PBBS-time: 0.00086
+
+PBBS-time: 0.000849
+
+PBBS-time: 0.000846
+
+PBBS-time: 0.000813
+
+PBBS-time: 0.000853
+
+PBBS-time: 0.000808
+
+PBBS-time: 0.000854
+
+PBBS-time: 0.000827
+
+PBBS-time: 0.000829
+
+PBBS-time: 0.000804
+
+PBBS-time: 0.000853
+
+PBBS-time: 0.000821
+
+PBBS-time: 0.000824
+
+PBBS-time: 0.000884
+
+PBBS-time: 0.000848
+
+PBBS-time: 0.000846
+
+PBBS-time: 0.000861
+
+PBBS-time: 0.00081
+
+PBBS-time: 0.000791
+
+PBBS-time: 0.000868
+
+PBBS-time: 0.000844
+
+PBBS-time: 0.000827
+
+PBBS-time: 0.000852
+
+PBBS-time: 0.000833
+
+PBBS-time: 0.000799
+
+PBBS-time: 0.00081
+
+PBBS-time: 0.000857
+
+PBBS-time: 0.000815
+
+PBBS-time: 0.000838
+
+PBBS-time: 0.000857
+
+PBBS-time: 0.00084
+
+PBBS-time: 0.000799
+
+PBBS-time: 0.000846
+
+PBBS-time: 0.000823
+
+PBBS-time: 0.000828
+
+PBBS-time: 0.000847
+
+PBBS-time: 0.000806
+
+PBBS-time: 0.000824
+
+PBBS-time: 0.000832
+
+PBBS-time: 0.000824
+
+PBBS-time: 0.00082
+
+PBBS-time: 0.00086
+
+PBBS-time: 0.000841
+
+PBBS-time: 0.000843
+
+PBBS-time: 0.000858
+
+PBBS-time: 0.000835
+
+PBBS-time: 0.000827
+
+PBBS-time: 0.000859
+
+PBBS-time: 0.000856
+
+PBBS-time: 0.00086
+
+PBBS-time: 0.00081
+
+PBBS-time: 0.000829
+
+PBBS-time: 0.000836
+
+PBBS-time: 0.000828
+
+PBBS-time: 0.000851
+
+PBBS-time: 0.000849
+
+PBBS-time: 0.000833
+
+PBBS-time: 0.000874
+
+PBBS-time: 0.000855
+
+PBBS-time: 0.00085
+
+PBBS-time: 0.000838
+
+PBBS-time: 0.000824
+
+PBBS-time: 0.000842
+
+PBBS-time: 0.000842
+
+PBBS-time: 0.000864
+
+PBBS-time: 0.000834
+
+PBBS-time: 0.000821
+
+PBBS-time: 0.000853
+
+PBBS-time: 0.000868
+
+PBBS-time: 0.000851
+
+PBBS-time: 0.000834
+
+PBBS-time: 0.000841
+
+PBBS-time: 0.00082
+
+PBBS-time: 0.000859
+
+PBBS-time: 0.000857
+
+PBBS-time: 0.000839
+
+PBBS-time: 0.000826
+
+PBBS-time: 0.000829
+
+0.002120000 secs <= obs < 0.002130000 secs, count: 1
+0.002130000 secs <= obs < 0.002140000 secs, count: 1
+0.002150000 secs <= obs < 0.002160000 secs, count: 1
+0.002160000 secs <= obs < 0.002170000 secs, count: 2
+0.002170000 secs <= obs < 0.002180000 secs, count: 4
+0.002180000 secs <= obs < 0.002190000 secs, count: 10
+0.002190000 secs <= obs < 0.002200000 secs, count: 19
+0.002200000 secs <= obs < 0.002210000 secs, count: 21
+0.002210000 secs <= obs < 0.002220000 secs, count: 22
+0.002220000 secs <= obs < 0.002230000 secs, count: 28
+0.002230000 secs <= obs < 0.002240000 secs, count: 48
+0.002240000 secs <= obs < 0.002250000 secs, count: 56
+0.002250000 secs <= obs < 0.002260000 secs, count: 55
+0.002260000 secs <= obs < 0.002270000 secs, count: 74
+0.002270000 secs <= obs < 0.002280000 secs, count: 80
+0.002280000 secs <= obs < 0.002290000 secs, count: 106
+0.002290000 secs <= obs < 0.002300000 secs, count: 116
+0.002300000 secs <= obs < 0.002310000 secs, count: 87
+0.002310000 secs <= obs < 0.002320000 secs, count: 71
+0.002320000 secs <= obs < 0.002330000 secs, count: 69
+0.002330000 secs <= obs < 0.002340000 secs, count: 57
+0.002340000 secs <= obs < 0.002350000 secs, count: 38
+0.002350000 secs <= obs < 0.002360000 secs, count: 15
+0.002360000 secs <= obs < 0.002370000 secs, count: 10
+0.002370000 secs <= obs < 0.002380000 secs, count: 4
+0.002380000 secs <= obs < 0.002390000 secs, count: 5
+Max Observation: 0.002388684 secs
+
+0.000010000 | 0.002388684 | 0.002283284

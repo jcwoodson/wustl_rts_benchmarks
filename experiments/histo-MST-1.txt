@@ -1,0 +1,2310 @@
+PBBS-time: 0.00047
+
+PBBS-time: 0.0005
+
+PBBS-time: 0.000418
+
+PBBS-time: 0.000426
+
+PBBS-time: 0.000453
+
+PBBS-time: 0.00041
+
+PBBS-time: 0.000457
+
+PBBS-time: 0.000514
+
+PBBS-time: 0.000483
+
+PBBS-time: 0.000404
+
+PBBS-time: 0.00043
+
+PBBS-time: 0.000595
+
+PBBS-time: 0.000521
+
+PBBS-time: 0.000449
+
+PBBS-time: 0.000435
+
+PBBS-time: 0.000446
+
+PBBS-time: 0.000445
+
+PBBS-time: 0.000412
+
+PBBS-time: 0.000591
+
+PBBS-time: 0.000424
+
+PBBS-time: 0.000479
+
+PBBS-time: 0.000455
+
+PBBS-time: 0.00047
+
+PBBS-time: 0.000472
+
+PBBS-time: 0.000545
+
+PBBS-time: 0.000461
+
+PBBS-time: 0.000438
+
+PBBS-time: 0.000487
+
+PBBS-time: 0.00053
+
+PBBS-time: 0.00044
+
+PBBS-time: 0.000516
+
+PBBS-time: 0.000458
+
+PBBS-time: 0.000555
+
+PBBS-time: 0.000477
+
+PBBS-time: 0.00055
+
+PBBS-time: 0.000458
+
+PBBS-time: 0.00102
+
+PBBS-time: 0.000437
+
+PBBS-time: 0.000459
+
+PBBS-time: 0.000375
+
+PBBS-time: 0.000454
+
+PBBS-time: 0.000444
+
+PBBS-time: 0.000404
+
+PBBS-time: 0.000423
+
+PBBS-time: 0.000471
+
+PBBS-time: 0.000404
+
+PBBS-time: 0.000501
+
+PBBS-time: 0.000468
+
+PBBS-time: 0.000426
+
+PBBS-time: 0.000487
+
+PBBS-time: 0.000408
+
+PBBS-time: 0.000406
+
+PBBS-time: 0.000579
+
+PBBS-time: 0.000496
+
+PBBS-time: 0.000481
+
+PBBS-time: 0.000414
+
+PBBS-time: 0.000412
+
+PBBS-time: 0.00048
+
+PBBS-time: 0.000493
+
+PBBS-time: 0.000446
+
+PBBS-time: 0.000451
+
+PBBS-time: 0.000437
+
+PBBS-time: 0.000465
+
+PBBS-time: 0.000455
+
+PBBS-time: 0.000414
+
+PBBS-time: 0.000463
+
+PBBS-time: 0.000445
+
+PBBS-time: 0.000484
+
+PBBS-time: 0.000406
+
+PBBS-time: 0.000604
+
+PBBS-time: 0.000462
+
+PBBS-time: 0.000467
+
+PBBS-time: 0.000382
+
+PBBS-time: 0.000472
+
+PBBS-time: 0.000406
+
+PBBS-time: 0.000474
+
+PBBS-time: 0.000438
+
+PBBS-time: 0.000461
+
+PBBS-time: 0.000521
+
+PBBS-time: 0.000436
+
+PBBS-time: 0.000401
+
+PBBS-time: 0.000467
+
+PBBS-time: 0.000401
+
+PBBS-time: 0.000605
+
+PBBS-time: 0.00044
+
+PBBS-time: 0.000403
+
+PBBS-time: 0.000434
+
+PBBS-time: 0.000463
+
+PBBS-time: 0.00041
+
+PBBS-time: 0.000456
+
+PBBS-time: 0.000449
+
+PBBS-time: 0.000425
+
+PBBS-time: 0.000463
+
+PBBS-time: 0.000415
+
+PBBS-time: 0.000429
+
+PBBS-time: 0.000433
+
+PBBS-time: 0.000517
+
+PBBS-time: 0.000396
+
+PBBS-time: 0.00041
+
+PBBS-time: 0.000473
+
+PBBS-time: 0.000606
+
+PBBS-time: 0.000423
+
+PBBS-time: 0.000403
+
+PBBS-time: 0.000469
+
+PBBS-time: 0.000477
+
+PBBS-time: 0.000429
+
+PBBS-time: 0.000427
+
+PBBS-time: 0.000438
+
+PBBS-time: 0.000503
+
+PBBS-time: 0.000425
+
+PBBS-time: 0.000411
+
+PBBS-time: 0.000509
+
+PBBS-time: 0.000485
+
+PBBS-time: 0.000419
+
+PBBS-time: 0.00045
+
+PBBS-time: 0.000426
+
+PBBS-time: 0.000438
+
+PBBS-time: 0.000427
+
+PBBS-time: 0.00042
+
+PBBS-time: 0.000452
+
+PBBS-time: 0.000384
+
+PBBS-time: 0.000424
+
+PBBS-time: 0.000493
+
+PBBS-time: 0.000389
+
+PBBS-time: 0.000441
+
+PBBS-time: 0.000406
+
+PBBS-time: 0.000497
+
+PBBS-time: 0.000416
+
+PBBS-time: 0.000415
+
+PBBS-time: 0.000411
+
+PBBS-time: 0.000579
+
+PBBS-time: 0.000396
+
+PBBS-time: 0.000562
+
+PBBS-time: 0.000375
+
+PBBS-time: 0.000432
+
+PBBS-time: 0.000418
+
+PBBS-time: 0.000535
+
+PBBS-time: 0.000476
+
+PBBS-time: 0.000399
+
+PBBS-time: 0.00046
+
+PBBS-time: 0.000523
+
+PBBS-time: 0.000587
+
+PBBS-time: 0.000523
+
+PBBS-time: 0.00043
+
+PBBS-time: 0.000545
+
+PBBS-time: 0.000469
+
+PBBS-time: 0.000415
+
+PBBS-time: 0.000485
+
+PBBS-time: 0.000539
+
+PBBS-time: 0.000476
+
+PBBS-time: 0.000492
+
+PBBS-time: 0.00046
+
+PBBS-time: 0.000515
+
+PBBS-time: 0.000414
+
+PBBS-time: 0.000409
+
+PBBS-time: 0.000468
+
+PBBS-time: 0.000449
+
+PBBS-time: 0.000423
+
+PBBS-time: 0.000417
+
+PBBS-time: 0.00046
+
+PBBS-time: 0.000385
+
+PBBS-time: 0.000404
+
+PBBS-time: 0.000472
+
+PBBS-time: 0.000494
+
+PBBS-time: 0.000493
+
+PBBS-time: 0.000386
+
+PBBS-time: 0.000438
+
+PBBS-time: 0.000499
+
+PBBS-time: 0.000441
+
+PBBS-time: 0.000503
+
+PBBS-time: 0.000441
+
+PBBS-time: 0.000417
+
+PBBS-time: 0.000416
+
+PBBS-time: 0.000511
+
+PBBS-time: 0.000369
+
+PBBS-time: 0.000408
+
+PBBS-time: 0.000497
+
+PBBS-time: 0.000443
+
+PBBS-time: 0.000403
+
+PBBS-time: 0.000452
+
+PBBS-time: 0.000435
+
+PBBS-time: 0.000507
+
+PBBS-time: 0.000418
+
+PBBS-time: 0.000456
+
+PBBS-time: 0.000788
+
+PBBS-time: 0.000449
+
+PBBS-time: 0.000494
+
+PBBS-time: 0.000383
+
+PBBS-time: 0.000434
+
+PBBS-time: 0.000426
+
+PBBS-time: 0.000455
+
+PBBS-time: 0.000488
+
+PBBS-time: 0.00042
+
+PBBS-time: 0.000444
+
+PBBS-time: 0.000382
+
+PBBS-time: 0.000478
+
+PBBS-time: 0.000469
+
+PBBS-time: 0.00048
+
+PBBS-time: 0.000431
+
+PBBS-time: 0.000491
+
+PBBS-time: 0.00043
+
+PBBS-time: 0.000412
+
+PBBS-time: 0.000408
+
+PBBS-time: 0.000469
+
+PBBS-time: 0.000557
+
+PBBS-time: 0.000463
+
+PBBS-time: 0.000429
+
+PBBS-time: 0.0004
+
+PBBS-time: 0.000458
+
+PBBS-time: 0.000453
+
+PBBS-time: 0.000409
+
+PBBS-time: 0.000402
+
+PBBS-time: 0.000438
+
+PBBS-time: 0.000441
+
+PBBS-time: 0.000459
+
+PBBS-time: 0.000427
+
+PBBS-time: 0.00048
+
+PBBS-time: 0.000446
+
+PBBS-time: 0.000414
+
+PBBS-time: 0.000438
+
+PBBS-time: 0.000355
+
+PBBS-time: 0.000478
+
+PBBS-time: 0.000461
+
+PBBS-time: 0.000395
+
+PBBS-time: 0.000419
+
+PBBS-time: 0.000463
+
+PBBS-time: 0.000446
+
+PBBS-time: 0.00044
+
+PBBS-time: 0.00048
+
+PBBS-time: 0.000431
+
+PBBS-time: 0.000449
+
+PBBS-time: 0.000435
+
+PBBS-time: 0.000444
+
+PBBS-time: 0.000725
+
+PBBS-time: 0.000453
+
+PBBS-time: 0.000469
+
+PBBS-time: 0.000377
+
+PBBS-time: 0.000491
+
+PBBS-time: 0.000481
+
+PBBS-time: 0.000448
+
+PBBS-time: 0.000423
+
+PBBS-time: 0.000451
+
+PBBS-time: 0.000411
+
+PBBS-time: 0.000406
+
+PBBS-time: 0.000423
+
+PBBS-time: 0.00045
+
+PBBS-time: 0.000402
+
+PBBS-time: 0.00047
+
+PBBS-time: 0.000452
+
+PBBS-time: 0.000574
+
+PBBS-time: 0.000468
+
+PBBS-time: 0.000383
+
+PBBS-time: 0.000459
+
+PBBS-time: 0.000463
+
+PBBS-time: 0.000443
+
+PBBS-time: 0.000418
+
+PBBS-time: 0.000414
+
+PBBS-time: 0.000417
+
+PBBS-time: 0.000426
+
+PBBS-time: 0.000398
+
+PBBS-time: 0.000434
+
+PBBS-time: 0.000434
+
+PBBS-time: 0.000504
+
+PBBS-time: 0.0005
+
+PBBS-time: 0.000446
+
+PBBS-time: 0.000418
+
+PBBS-time: 0.00046
+
+PBBS-time: 0.000435
+
+PBBS-time: 0.000425
+
+PBBS-time: 0.000466
+
+PBBS-time: 0.000549
+
+PBBS-time: 0.000418
+
+PBBS-time: 0.000427
+
+PBBS-time: 0.000443
+
+PBBS-time: 0.000425
+
+PBBS-time: 0.000411
+
+PBBS-time: 0.000476
+
+PBBS-time: 0.00037
+
+PBBS-time: 0.000436
+
+PBBS-time: 0.000466
+
+PBBS-time: 0.000517
+
+PBBS-time: 0.000441
+
+PBBS-time: 0.000469
+
+PBBS-time: 0.000405
+
+PBBS-time: 0.000512
+
+PBBS-time: 0.000395
+
+PBBS-time: 0.000608
+
+PBBS-time: 0.000416
+
+PBBS-time: 0.000536
+
+PBBS-time: 0.000414
+
+PBBS-time: 0.000481
+
+PBBS-time: 0.000498
+
+PBBS-time: 0.000426
+
+PBBS-time: 0.000518
+
+PBBS-time: 0.000546
+
+PBBS-time: 0.000429
+
+PBBS-time: 0.000433
+
+PBBS-time: 0.000415
+
+PBBS-time: 0.000495
+
+PBBS-time: 0.000474
+
+PBBS-time: 0.000442
+
+PBBS-time: 0.000441
+
+PBBS-time: 0.000526
+
+PBBS-time: 0.000446
+
+PBBS-time: 0.000506
+
+PBBS-time: 0.000499
+
+PBBS-time: 0.000403
+
+PBBS-time: 0.000477
+
+PBBS-time: 0.000484
+
+PBBS-time: 0.00049
+
+PBBS-time: 0.000502
+
+PBBS-time: 0.000452
+
+PBBS-time: 0.000402
+
+PBBS-time: 0.000396
+
+PBBS-time: 0.000433
+
+PBBS-time: 0.000507
+
+PBBS-time: 0.000417
+
+PBBS-time: 0.000614
+
+PBBS-time: 0.000398
+
+PBBS-time: 0.000593
+
+PBBS-time: 0.000448
+
+PBBS-time: 0.000442
+
+PBBS-time: 0.000408
+
+PBBS-time: 0.000575
+
+PBBS-time: 0.000526
+
+PBBS-time: 0.000469
+
+PBBS-time: 0.000517
+
+PBBS-time: 0.000413
+
+PBBS-time: 0.000403
+
+PBBS-time: 0.000552
+
+PBBS-time: 0.000584
+
+PBBS-time: 0.000487
+
+PBBS-time: 0.000467
+
+PBBS-time: 0.000468
+
+PBBS-time: 0.000485
+
+PBBS-time: 0.00042
+
+PBBS-time: 0.000585
+
+PBBS-time: 0.000583
+
+PBBS-time: 0.000433
+
+PBBS-time: 0.000452
+
+PBBS-time: 0.000471
+
+PBBS-time: 0.000411
+
+PBBS-time: 0.000468
+
+PBBS-time: 0.000476
+
+PBBS-time: 0.000567
+
+PBBS-time: 0.000468
+
+PBBS-time: 0.000435
+
+PBBS-time: 0.000527
+
+PBBS-time: 0.000458
+
+PBBS-time: 0.000439
+
+PBBS-time: 0.000466
+
+PBBS-time: 0.000422
+
+PBBS-time: 0.000437
+
+PBBS-time: 0.00042
+
+PBBS-time: 0.000539
+
+PBBS-time: 0.000473
+
+PBBS-time: 0.000432
+
+PBBS-time: 0.00047
+
+PBBS-time: 0.000463
+
+PBBS-time: 0.000438
+
+PBBS-time: 0.000477
+
+PBBS-time: 0.000583
+
+PBBS-time: 0.000386
+
+PBBS-time: 0.000455
+
+PBBS-time: 0.000444
+
+PBBS-time: 0.000461
+
+PBBS-time: 0.000592
+
+PBBS-time: 0.000477
+
+PBBS-time: 0.000475
+
+PBBS-time: 0.000505
+
+PBBS-time: 0.000409
+
+PBBS-time: 0.000428
+
+PBBS-time: 0.000487
+
+PBBS-time: 0.000465
+
+PBBS-time: 0.000489
+
+PBBS-time: 0.00043
+
+PBBS-time: 0.000429
+
+PBBS-time: 0.000412
+
+PBBS-time: 0.000481
+
+PBBS-time: 0.000438
+
+PBBS-time: 0.000494
+
+PBBS-time: 0.000568
+
+PBBS-time: 0.000434
+
+PBBS-time: 0.000416
+
+PBBS-time: 0.000561
+
+PBBS-time: 0.000444
+
+PBBS-time: 0.000444
+
+PBBS-time: 0.000481
+
+PBBS-time: 0.000434
+
+PBBS-time: 0.000459
+
+PBBS-time: 0.000471
+
+PBBS-time: 0.000464
+
+PBBS-time: 0.000491
+
+PBBS-time: 0.000461
+
+PBBS-time: 0.000422
+
+PBBS-time: 0.000486
+
+PBBS-time: 0.000616
+
+PBBS-time: 0.000442
+
+PBBS-time: 0.000482
+
+PBBS-time: 0.000436
+
+PBBS-time: 0.000417
+
+PBBS-time: 0.000407
+
+PBBS-time: 0.000433
+
+PBBS-time: 0.000426
+
+PBBS-time: 0.000492
+
+PBBS-time: 0.000465
+
+PBBS-time: 0.000717
+
+PBBS-time: 0.000445
+
+PBBS-time: 0.000465
+
+PBBS-time: 0.000524
+
+PBBS-time: 0.000476
+
+PBBS-time: 0.000494
+
+PBBS-time: 0.000421
+
+PBBS-time: 0.000402
+
+PBBS-time: 0.000515
+
+PBBS-time: 0.000372
+
+PBBS-time: 0.00047
+
+PBBS-time: 0.000447
+
+PBBS-time: 0.000453
+
+PBBS-time: 0.00055
+
+PBBS-time: 0.000449
+
+PBBS-time: 0.000669
+
+PBBS-time: 0.000463
+
+PBBS-time: 0.000455
+
+PBBS-time: 0.000541
+
+PBBS-time: 0.00049
+
+PBBS-time: 0.000386
+
+PBBS-time: 0.000534
+
+PBBS-time: 0.00053
+
+PBBS-time: 0.00039
+
+PBBS-time: 0.000474
+
+PBBS-time: 0.000462
+
+PBBS-time: 0.000363
+
+PBBS-time: 0.000489
+
+PBBS-time: 0.000487
+
+PBBS-time: 0.000438
+
+PBBS-time: 0.000413
+
+PBBS-time: 0.000496
+
+PBBS-time: 0.000505
+
+PBBS-time: 0.000502
+
+PBBS-time: 0.000476
+
+PBBS-time: 0.00045
+
+PBBS-time: 0.00053
+
+PBBS-time: 0.000442
+
+PBBS-time: 0.00045
+
+PBBS-time: 0.000497
+
+PBBS-time: 0.000638
+
+PBBS-time: 0.000526
+
+PBBS-time: 0.000405
+
+PBBS-time: 0.00047
+
+PBBS-time: 0.000453
+
+PBBS-time: 0.000487
+
+PBBS-time: 0.000445
+
+PBBS-time: 0.000431
+
+PBBS-time: 0.000479
+
+PBBS-time: 0.000501
+
+PBBS-time: 0.000409
+
+PBBS-time: 0.000463
+
+PBBS-time: 0.000442
+
+PBBS-time: 0.000441
+
+PBBS-time: 0.000551
+
+PBBS-time: 0.00046
+
+PBBS-time: 0.000626
+
+PBBS-time: 0.000478
+
+PBBS-time: 0.00047
+
+PBBS-time: 0.00042
+
+PBBS-time: 0.000433
+
+PBBS-time: 0.000381
+
+PBBS-time: 0.000522
+
+PBBS-time: 0.000462
+
+PBBS-time: 0.000459
+
+PBBS-time: 0.000434
+
+PBBS-time: 0.000519
+
+PBBS-time: 0.000442
+
+PBBS-time: 0.00055
+
+PBBS-time: 0.00045
+
+PBBS-time: 0.000436
+
+PBBS-time: 0.000509
+
+PBBS-time: 0.000454
+
+PBBS-time: 0.000472
+
+PBBS-time: 0.000508
+
+PBBS-time: 0.000442
+
+PBBS-time: 0.000446
+
+PBBS-time: 0.000427
+
+PBBS-time: 0.000417
+
+PBBS-time: 0.000467
+
+PBBS-time: 0.000435
+
+PBBS-time: 0.000406
+
+PBBS-time: 0.000555
+
+PBBS-time: 0.000419
+
+PBBS-time: 0.000487
+
+PBBS-time: 0.000394
+
+PBBS-time: 0.000469
+
+PBBS-time: 0.000476
+
+PBBS-time: 0.000447
+
+PBBS-time: 0.000549
+
+PBBS-time: 0.000569
+
+PBBS-time: 0.000462
+
+PBBS-time: 0.000502
+
+PBBS-time: 0.000423
+
+PBBS-time: 0.000641
+
+PBBS-time: 0.000533
+
+PBBS-time: 0.000436
+
+PBBS-time: 0.000626
+
+PBBS-time: 0.000478
+
+PBBS-time: 0.000456
+
+PBBS-time: 0.000544
+
+PBBS-time: 0.000429
+
+PBBS-time: 0.000429
+
+PBBS-time: 0.000493
+
+PBBS-time: 0.000434
+
+PBBS-time: 0.000529
+
+PBBS-time: 0.000664
+
+PBBS-time: 0.000439
+
+PBBS-time: 0.000477
+
+PBBS-time: 0.000448
+
+PBBS-time: 0.000429
+
+PBBS-time: 0.000487
+
+PBBS-time: 0.000502
+
+PBBS-time: 0.000498
+
+PBBS-time: 0.000397
+
+PBBS-time: 0.000423
+
+PBBS-time: 0.000465
+
+PBBS-time: 0.000478
+
+PBBS-time: 0.000474
+
+PBBS-time: 0.000397
+
+PBBS-time: 0.000421
+
+PBBS-time: 0.000487
+
+PBBS-time: 0.00047
+
+PBBS-time: 0.000498
+
+PBBS-time: 0.000451
+
+PBBS-time: 0.000455
+
+PBBS-time: 0.000479
+
+PBBS-time: 0.000463
+
+PBBS-time: 0.000425
+
+PBBS-time: 0.000391
+
+PBBS-time: 0.000463
+
+PBBS-time: 0.00047
+
+PBBS-time: 0.000432
+
+PBBS-time: 0.000454
+
+PBBS-time: 0.00044
+
+PBBS-time: 0.000394
+
+PBBS-time: 0.000605
+
+PBBS-time: 0.000379
+
+PBBS-time: 0.000455
+
+PBBS-time: 0.000525
+
+PBBS-time: 0.000426
+
+PBBS-time: 0.000403
+
+PBBS-time: 0.000567
+
+PBBS-time: 0.000476
+
+PBBS-time: 0.000436
+
+PBBS-time: 0.00048
+
+PBBS-time: 0.000491
+
+PBBS-time: 0.000392
+
+PBBS-time: 0.000413
+
+PBBS-time: 0.000417
+
+PBBS-time: 0.000459
+
+PBBS-time: 0.000476
+
+PBBS-time: 0.000376
+
+PBBS-time: 0.000443
+
+PBBS-time: 0.000519
+
+PBBS-time: 0.00045
+
+PBBS-time: 0.00044
+
+PBBS-time: 0.000608
+
+PBBS-time: 0.000426
+
+PBBS-time: 0.000431
+
+PBBS-time: 0.0004
+
+PBBS-time: 0.000723
+
+PBBS-time: 0.000363
+
+PBBS-time: 0.000623
+
+PBBS-time: 0.000401
+
+PBBS-time: 0.000444
+
+PBBS-time: 0.000449
+
+PBBS-time: 0.000474
+
+PBBS-time: 0.000494
+
+PBBS-time: 0.000453
+
+PBBS-time: 0.000686
+
+PBBS-time: 0.000421
+
+PBBS-time: 0.000479
+
+PBBS-time: 0.000505
+
+PBBS-time: 0.000436
+
+PBBS-time: 0.000485
+
+PBBS-time: 0.00045
+
+PBBS-time: 0.0004
+
+PBBS-time: 0.000444
+
+PBBS-time: 0.000447
+
+PBBS-time: 0.000419
+
+PBBS-time: 0.000456
+
+PBBS-time: 0.000435
+
+PBBS-time: 0.00043
+
+PBBS-time: 0.000431
+
+PBBS-time: 0.00069
+
+PBBS-time: 0.000447
+
+PBBS-time: 0.000552
+
+PBBS-time: 0.000495
+
+PBBS-time: 0.00045
+
+PBBS-time: 0.000546
+
+PBBS-time: 0.000445
+
+PBBS-time: 0.000428
+
+PBBS-time: 0.000411
+
+PBBS-time: 0.000406
+
+PBBS-time: 0.000511
+
+PBBS-time: 0.000388
+
+PBBS-time: 0.00044
+
+PBBS-time: 0.00054
+
+PBBS-time: 0.000474
+
+PBBS-time: 0.000466
+
+PBBS-time: 0.000482
+
+PBBS-time: 0.000446
+
+PBBS-time: 0.00041
+
+PBBS-time: 0.000437
+
+PBBS-time: 0.000399
+
+PBBS-time: 0.000448
+
+PBBS-time: 0.000412
+
+PBBS-time: 0.000484
+
+PBBS-time: 0.000618
+
+PBBS-time: 0.000404
+
+PBBS-time: 0.000462
+
+PBBS-time: 0.000536
+
+PBBS-time: 0.000416
+
+PBBS-time: 0.000441
+
+PBBS-time: 0.000451
+
+PBBS-time: 0.000437
+
+PBBS-time: 0.000475
+
+PBBS-time: 0.000475
+
+PBBS-time: 0.00043
+
+PBBS-time: 0.000418
+
+PBBS-time: 0.00043
+
+PBBS-time: 0.000415
+
+PBBS-time: 0.000512
+
+PBBS-time: 0.000544
+
+PBBS-time: 0.000495
+
+PBBS-time: 0.000444
+
+PBBS-time: 0.000384
+
+PBBS-time: 0.000448
+
+PBBS-time: 0.000394
+
+PBBS-time: 0.000406
+
+PBBS-time: 0.000422
+
+PBBS-time: 0.000456
+
+PBBS-time: 0.000431
+
+PBBS-time: 0.000426
+
+PBBS-time: 0.000454
+
+PBBS-time: 0.000449
+
+PBBS-time: 0.000439
+
+PBBS-time: 0.000395
+
+PBBS-time: 0.000456
+
+PBBS-time: 0.000505
+
+PBBS-time: 0.000445
+
+PBBS-time: 0.00045
+
+PBBS-time: 0.000459
+
+PBBS-time: 0.000456
+
+PBBS-time: 0.000413
+
+PBBS-time: 0.000581
+
+PBBS-time: 0.000438
+
+PBBS-time: 0.000423
+
+PBBS-time: 0.000428
+
+PBBS-time: 0.000395
+
+PBBS-time: 0.000443
+
+PBBS-time: 0.00045
+
+PBBS-time: 0.000449
+
+PBBS-time: 0.000391
+
+PBBS-time: 0.000441
+
+PBBS-time: 0.000422
+
+PBBS-time: 0.000497
+
+PBBS-time: 0.000496
+
+PBBS-time: 0.000488
+
+PBBS-time: 0.000457
+
+PBBS-time: 0.000426
+
+PBBS-time: 0.000382
+
+PBBS-time: 0.000459
+
+PBBS-time: 0.000455
+
+PBBS-time: 0.0005
+
+PBBS-time: 0.000435
+
+PBBS-time: 0.000416
+
+PBBS-time: 0.000456
+
+PBBS-time: 0.000394
+
+PBBS-time: 0.000425
+
+PBBS-time: 0.000418
+
+PBBS-time: 0.000517
+
+PBBS-time: 0.000462
+
+PBBS-time: 0.000436
+
+PBBS-time: 0.000469
+
+PBBS-time: 0.000534
+
+PBBS-time: 0.000506
+
+PBBS-time: 0.000382
+
+PBBS-time: 0.000397
+
+PBBS-time: 0.000451
+
+PBBS-time: 0.000526
+
+PBBS-time: 0.000464
+
+PBBS-time: 0.000464
+
+PBBS-time: 0.000464
+
+PBBS-time: 0.000437
+
+PBBS-time: 0.000444
+
+PBBS-time: 0.000426
+
+PBBS-time: 0.000426
+
+PBBS-time: 0.000464
+
+PBBS-time: 0.000394
+
+PBBS-time: 0.0004
+
+PBBS-time: 0.000529
+
+PBBS-time: 0.000434
+
+PBBS-time: 0.000455
+
+PBBS-time: 0.000462
+
+PBBS-time: 0.000479
+
+PBBS-time: 0.000448
+
+PBBS-time: 0.000524
+
+PBBS-time: 0.000479
+
+PBBS-time: 0.000437
+
+PBBS-time: 0.00046
+
+PBBS-time: 0.000457
+
+PBBS-time: 0.000413
+
+PBBS-time: 0.000458
+
+PBBS-time: 0.000408
+
+PBBS-time: 0.000459
+
+PBBS-time: 0.00042
+
+PBBS-time: 0.000527
+
+PBBS-time: 0.000449
+
+PBBS-time: 0.00046
+
+PBBS-time: 0.000465
+
+PBBS-time: 0.000452
+
+PBBS-time: 0.000474
+
+PBBS-time: 0.000593
+
+PBBS-time: 0.000443
+
+PBBS-time: 0.000405
+
+PBBS-time: 0.000431
+
+PBBS-time: 0.000388
+
+PBBS-time: 0.000455
+
+PBBS-time: 0.000486
+
+PBBS-time: 0.000472
+
+PBBS-time: 0.000408
+
+PBBS-time: 0.000397
+
+PBBS-time: 0.000428
+
+PBBS-time: 0.000457
+
+PBBS-time: 0.000383
+
+PBBS-time: 0.000404
+
+PBBS-time: 0.000428
+
+PBBS-time: 0.000444
+
+PBBS-time: 0.000428
+
+PBBS-time: 0.000414
+
+PBBS-time: 0.000586
+
+PBBS-time: 0.000412
+
+PBBS-time: 0.000519
+
+PBBS-time: 0.000454
+
+PBBS-time: 0.00036
+
+PBBS-time: 0.000477
+
+PBBS-time: 0.000472
+
+PBBS-time: 0.000427
+
+PBBS-time: 0.000464
+
+PBBS-time: 0.000446
+
+PBBS-time: 0.000473
+
+PBBS-time: 0.00044
+
+PBBS-time: 0.000412
+
+PBBS-time: 0.00047
+
+PBBS-time: 0.000405
+
+PBBS-time: 0.000464
+
+PBBS-time: 0.000463
+
+PBBS-time: 0.000428
+
+PBBS-time: 0.000408
+
+PBBS-time: 0.000448
+
+PBBS-time: 0.000461
+
+PBBS-time: 0.000425
+
+PBBS-time: 0.000454
+
+PBBS-time: 0.000482
+
+PBBS-time: 0.000413
+
+PBBS-time: 0.000488
+
+PBBS-time: 0.000465
+
+PBBS-time: 0.000436
+
+PBBS-time: 0.000495
+
+PBBS-time: 0.000445
+
+PBBS-time: 0.000429
+
+PBBS-time: 0.000422
+
+PBBS-time: 0.000432
+
+PBBS-time: 0.000481
+
+PBBS-time: 0.000462
+
+PBBS-time: 0.000506
+
+PBBS-time: 0.000428
+
+PBBS-time: 0.00038
+
+PBBS-time: 0.000435
+
+PBBS-time: 0.000525
+
+PBBS-time: 0.000445
+
+PBBS-time: 0.000401
+
+PBBS-time: 0.000411
+
+PBBS-time: 0.000449
+
+PBBS-time: 0.000418
+
+PBBS-time: 0.000407
+
+PBBS-time: 0.000412
+
+PBBS-time: 0.0005
+
+PBBS-time: 0.000388
+
+PBBS-time: 0.000406
+
+PBBS-time: 0.000499
+
+PBBS-time: 0.000419
+
+PBBS-time: 0.000469
+
+PBBS-time: 0.000491
+
+PBBS-time: 0.000413
+
+PBBS-time: 0.00039
+
+PBBS-time: 0.000412
+
+PBBS-time: 0.00045
+
+PBBS-time: 0.000464
+
+PBBS-time: 0.000443
+
+PBBS-time: 0.00042
+
+PBBS-time: 0.000493
+
+PBBS-time: 0.00057
+
+PBBS-time: 0.000452
+
+PBBS-time: 0.000391
+
+PBBS-time: 0.000435
+
+PBBS-time: 0.000447
+
+PBBS-time: 0.000434
+
+PBBS-time: 0.000461
+
+PBBS-time: 0.000439
+
+PBBS-time: 0.000415
+
+PBBS-time: 0.000438
+
+PBBS-time: 0.000483
+
+PBBS-time: 0.000388
+
+PBBS-time: 0.000419
+
+PBBS-time: 0.000502
+
+PBBS-time: 0.000396
+
+PBBS-time: 0.000414
+
+PBBS-time: 0.000535
+
+PBBS-time: 0.000421
+
+PBBS-time: 0.000403
+
+PBBS-time: 0.000424
+
+PBBS-time: 0.000422
+
+PBBS-time: 0.000444
+
+PBBS-time: 0.000412
+
+PBBS-time: 0.000446
+
+PBBS-time: 0.000425
+
+PBBS-time: 0.000452
+
+PBBS-time: 0.000424
+
+PBBS-time: 0.00047
+
+PBBS-time: 0.000428
+
+PBBS-time: 0.000463
+
+PBBS-time: 0.000436
+
+PBBS-time: 0.00043
+
+PBBS-time: 0.000428
+
+PBBS-time: 0.000479
+
+PBBS-time: 0.000479
+
+PBBS-time: 0.00049
+
+PBBS-time: 0.000409
+
+PBBS-time: 0.000428
+
+PBBS-time: 0.000438
+
+PBBS-time: 0.000442
+
+PBBS-time: 0.000457
+
+PBBS-time: 0.000389
+
+PBBS-time: 0.000665
+
+PBBS-time: 0.000403
+
+PBBS-time: 0.00048
+
+PBBS-time: 0.000424
+
+PBBS-time: 0.000451
+
+PBBS-time: 0.000431
+
+PBBS-time: 0.0004
+
+PBBS-time: 0.000472
+
+PBBS-time: 0.000394
+
+PBBS-time: 0.000443
+
+PBBS-time: 0.000439
+
+PBBS-time: 0.000471
+
+PBBS-time: 0.000402
+
+PBBS-time: 0.00047
+
+PBBS-time: 0.000454
+
+PBBS-time: 0.00039
+
+PBBS-time: 0.000482
+
+PBBS-time: 0.000417
+
+PBBS-time: 0.000478
+
+PBBS-time: 0.000506
+
+PBBS-time: 0.000444
+
+PBBS-time: 0.000536
+
+PBBS-time: 0.000388
+
+PBBS-time: 0.000384
+
+PBBS-time: 0.000409
+
+PBBS-time: 0.000529
+
+PBBS-time: 0.000439
+
+PBBS-time: 0.000465
+
+PBBS-time: 0.00042
+
+PBBS-time: 0.000462
+
+PBBS-time: 0.000424
+
+PBBS-time: 0.00044
+
+PBBS-time: 0.000427
+
+PBBS-time: 0.00039
+
+PBBS-time: 0.000494
+
+PBBS-time: 0.000502
+
+PBBS-time: 0.000448
+
+PBBS-time: 0.000483
+
+PBBS-time: 0.000545
+
+PBBS-time: 0.000456
+
+PBBS-time: 0.000585
+
+PBBS-time: 0.000474
+
+PBBS-time: 0.000571
+
+PBBS-time: 0.000404
+
+PBBS-time: 0.000454
+
+PBBS-time: 0.000405
+
+PBBS-time: 0.000441
+
+PBBS-time: 0.000433
+
+PBBS-time: 0.000434
+
+PBBS-time: 0.000443
+
+PBBS-time: 0.000624
+
+PBBS-time: 0.000373
+
+PBBS-time: 0.000447
+
+PBBS-time: 0.000433
+
+PBBS-time: 0.000512
+
+PBBS-time: 0.000469
+
+PBBS-time: 0.000469
+
+PBBS-time: 0.00043
+
+PBBS-time: 0.000406
+
+PBBS-time: 0.000469
+
+PBBS-time: 0.000404
+
+PBBS-time: 0.000463
+
+PBBS-time: 0.000473
+
+PBBS-time: 0.000457
+
+PBBS-time: 0.000444
+
+PBBS-time: 0.000411
+
+PBBS-time: 0.000407
+
+PBBS-time: 0.000423
+
+PBBS-time: 0.000431
+
+PBBS-time: 0.000435
+
+PBBS-time: 0.000407
+
+PBBS-time: 0.0004
+
+PBBS-time: 0.000417
+
+PBBS-time: 0.000429
+
+PBBS-time: 0.000466
+
+PBBS-time: 0.000423
+
+PBBS-time: 0.000515
+
+PBBS-time: 0.000437
+
+PBBS-time: 0.000533
+
+PBBS-time: 0.000438
+
+PBBS-time: 0.00047
+
+PBBS-time: 0.000527
+
+PBBS-time: 0.00049
+
+PBBS-time: 0.000421
+
+PBBS-time: 0.000433
+
+PBBS-time: 0.000473
+
+PBBS-time: 0.000459
+
+PBBS-time: 0.000446
+
+PBBS-time: 0.000473
+
+PBBS-time: 0.000408
+
+PBBS-time: 0.000508
+
+PBBS-time: 0.000416
+
+PBBS-time: 0.000427
+
+PBBS-time: 0.000473
+
+PBBS-time: 0.000437
+
+PBBS-time: 0.00042
+
+PBBS-time: 0.00045
+
+PBBS-time: 0.000587
+
+PBBS-time: 0.000463
+
+PBBS-time: 0.000448
+
+PBBS-time: 0.00046
+
+PBBS-time: 0.000447
+
+PBBS-time: 0.00043
+
+PBBS-time: 0.000582
+
+PBBS-time: 0.00046
+
+PBBS-time: 0.000484
+
+PBBS-time: 0.00046
+
+PBBS-time: 0.00045
+
+PBBS-time: 0.00044
+
+PBBS-time: 0.000414
+
+PBBS-time: 0.000432
+
+PBBS-time: 0.000499
+
+PBBS-time: 0.00051
+
+PBBS-time: 0.000438
+
+PBBS-time: 0.000502
+
+PBBS-time: 0.000462
+
+PBBS-time: 0.000419
+
+PBBS-time: 0.000412
+
+PBBS-time: 0.000409
+
+PBBS-time: 0.000598
+
+PBBS-time: 0.000389
+
+PBBS-time: 0.000504
+
+PBBS-time: 0.000457
+
+PBBS-time: 0.000442
+
+PBBS-time: 0.000484
+
+PBBS-time: 0.000383
+
+PBBS-time: 0.000446
+
+PBBS-time: 0.000453
+
+PBBS-time: 0.000451
+
+PBBS-time: 0.00043
+
+PBBS-time: 0.000502
+
+PBBS-time: 0.000432
+
+PBBS-time: 0.000453
+
+PBBS-time: 0.000432
+
+PBBS-time: 0.000381
+
+PBBS-time: 0.000448
+
+PBBS-time: 0.000425
+
+PBBS-time: 0.000445
+
+PBBS-time: 0.000396
+
+PBBS-time: 0.000424
+
+PBBS-time: 0.00044
+
+PBBS-time: 0.000418
+
+PBBS-time: 0.000545
+
+PBBS-time: 0.000431
+
+PBBS-time: 0.000417
+
+PBBS-time: 0.000507
+
+PBBS-time: 0.000418
+
+PBBS-time: 0.000405
+
+PBBS-time: 0.000503
+
+PBBS-time: 0.000425
+
+PBBS-time: 0.000382
+
+PBBS-time: 0.00043
+
+PBBS-time: 0.00041
+
+PBBS-time: 0.000403
+
+PBBS-time: 0.000439
+
+PBBS-time: 0.00052
+
+PBBS-time: 0.000458
+
+PBBS-time: 0.000447
+
+0.000814000 secs <= obs < 0.000815000 secs, count: 1
+0.000817000 secs <= obs < 0.000818000 secs, count: 1
+0.000825000 secs <= obs < 0.000826000 secs, count: 1
+0.000826000 secs <= obs < 0.000827000 secs, count: 1
+0.000832000 secs <= obs < 0.000833000 secs, count: 2
+0.000833000 secs <= obs < 0.000834000 secs, count: 1
+0.000834000 secs <= obs < 0.000835000 secs, count: 1
+0.000836000 secs <= obs < 0.000837000 secs, count: 1
+0.000837000 secs <= obs < 0.000838000 secs, count: 1
+0.000839000 secs <= obs < 0.000840000 secs, count: 2
+0.000841000 secs <= obs < 0.000842000 secs, count: 3
+0.000844000 secs <= obs < 0.000845000 secs, count: 1
+0.000845000 secs <= obs < 0.000846000 secs, count: 1
+0.000846000 secs <= obs < 0.000847000 secs, count: 2
+0.000847000 secs <= obs < 0.000848000 secs, count: 3
+0.000849000 secs <= obs < 0.000850000 secs, count: 1
+0.000851000 secs <= obs < 0.000852000 secs, count: 1
+0.000852000 secs <= obs < 0.000853000 secs, count: 1
+0.000853000 secs <= obs < 0.000854000 secs, count: 3
+0.000854000 secs <= obs < 0.000855000 secs, count: 3
+0.000855000 secs <= obs < 0.000856000 secs, count: 3
+0.000856000 secs <= obs < 0.000857000 secs, count: 1
+0.000857000 secs <= obs < 0.000858000 secs, count: 1
+0.000858000 secs <= obs < 0.000859000 secs, count: 1
+0.000859000 secs <= obs < 0.000860000 secs, count: 2
+0.000860000 secs <= obs < 0.000861000 secs, count: 3
+0.000861000 secs <= obs < 0.000862000 secs, count: 1
+0.000862000 secs <= obs < 0.000863000 secs, count: 2
+0.000863000 secs <= obs < 0.000864000 secs, count: 1
+0.000864000 secs <= obs < 0.000865000 secs, count: 2
+0.000865000 secs <= obs < 0.000866000 secs, count: 4
+0.000866000 secs <= obs < 0.000867000 secs, count: 1
+0.000867000 secs <= obs < 0.000868000 secs, count: 4
+0.000868000 secs <= obs < 0.000869000 secs, count: 1
+0.000869000 secs <= obs < 0.000870000 secs, count: 2
+0.000870000 secs <= obs < 0.000871000 secs, count: 2
+0.000871000 secs <= obs < 0.000872000 secs, count: 5
+0.000872000 secs <= obs < 0.000873000 secs, count: 4
+0.000873000 secs <= obs < 0.000874000 secs, count: 4
+0.000874000 secs <= obs < 0.000875000 secs, count: 2
+0.000875000 secs <= obs < 0.000876000 secs, count: 2
+0.000876000 secs <= obs < 0.000877000 secs, count: 2
+0.000877000 secs <= obs < 0.000878000 secs, count: 1
+0.000878000 secs <= obs < 0.000879000 secs, count: 3
+0.000880000 secs <= obs < 0.000881000 secs, count: 4
+0.000881000 secs <= obs < 0.000882000 secs, count: 2
+0.000883000 secs <= obs < 0.000884000 secs, count: 1
+0.000884000 secs <= obs < 0.000885000 secs, count: 1
+0.000885000 secs <= obs < 0.000886000 secs, count: 4
+0.000886000 secs <= obs < 0.000887000 secs, count: 1
+0.000887000 secs <= obs < 0.000888000 secs, count: 2
+0.000888000 secs <= obs < 0.000889000 secs, count: 8
+0.000889000 secs <= obs < 0.000890000 secs, count: 2
+0.000890000 secs <= obs < 0.000891000 secs, count: 2
+0.000891000 secs <= obs < 0.000892000 secs, count: 4
+0.000892000 secs <= obs < 0.000893000 secs, count: 7
+0.000893000 secs <= obs < 0.000894000 secs, count: 3
+0.000894000 secs <= obs < 0.000895000 secs, count: 6
+0.000895000 secs <= obs < 0.000896000 secs, count: 3
+0.000896000 secs <= obs < 0.000897000 secs, count: 5
+0.000897000 secs <= obs < 0.000898000 secs, count: 5
+0.000898000 secs <= obs < 0.000899000 secs, count: 6
+0.000899000 secs <= obs < 0.000900000 secs, count: 3
+0.000900000 secs <= obs < 0.000901000 secs, count: 9
+0.000901000 secs <= obs < 0.000902000 secs, count: 6
+0.000902000 secs <= obs < 0.000903000 secs, count: 5
+0.000903000 secs <= obs < 0.000904000 secs, count: 5
+0.000904000 secs <= obs < 0.000905000 secs, count: 5
+0.000905000 secs <= obs < 0.000906000 secs, count: 7
+0.000906000 secs <= obs < 0.000907000 secs, count: 5
+0.000907000 secs <= obs < 0.000908000 secs, count: 3
+0.000908000 secs <= obs < 0.000909000 secs, count: 1
+0.000909000 secs <= obs < 0.000910000 secs, count: 9
+0.000910000 secs <= obs < 0.000911000 secs, count: 4
+0.000911000 secs <= obs < 0.000912000 secs, count: 6
+0.000912000 secs <= obs < 0.000913000 secs, count: 8
+0.000913000 secs <= obs < 0.000914000 secs, count: 6
+0.000914000 secs <= obs < 0.000915000 secs, count: 8
+0.000915000 secs <= obs < 0.000916000 secs, count: 5
+0.000916000 secs <= obs < 0.000917000 secs, count: 6
+0.000917000 secs <= obs < 0.000918000 secs, count: 7
+0.000918000 secs <= obs < 0.000919000 secs, count: 2
+0.000919000 secs <= obs < 0.000920000 secs, count: 9
+0.000920000 secs <= obs < 0.000921000 secs, count: 6
+0.000921000 secs <= obs < 0.000922000 secs, count: 6
+0.000922000 secs <= obs < 0.000923000 secs, count: 8
+0.000923000 secs <= obs < 0.000924000 secs, count: 6
+0.000924000 secs <= obs < 0.000925000 secs, count: 4
+0.000925000 secs <= obs < 0.000926000 secs, count: 7
+0.000926000 secs <= obs < 0.000927000 secs, count: 6
+0.000927000 secs <= obs < 0.000928000 secs, count: 4
+0.000928000 secs <= obs < 0.000929000 secs, count: 7
+0.000929000 secs <= obs < 0.000930000 secs, count: 4
+0.000930000 secs <= obs < 0.000931000 secs, count: 5
+0.000931000 secs <= obs < 0.000932000 secs, count: 7
+0.000932000 secs <= obs < 0.000933000 secs, count: 5
+0.000933000 secs <= obs < 0.000934000 secs, count: 7
+0.000934000 secs <= obs < 0.000935000 secs, count: 8
+0.000935000 secs <= obs < 0.000936000 secs, count: 4
+0.000936000 secs <= obs < 0.000937000 secs, count: 6
+0.000937000 secs <= obs < 0.000938000 secs, count: 5
+0.000938000 secs <= obs < 0.000939000 secs, count: 9
+0.000939000 secs <= obs < 0.000940000 secs, count: 2
+0.000940000 secs <= obs < 0.000941000 secs, count: 3
+0.000941000 secs <= obs < 0.000942000 secs, count: 9
+0.000942000 secs <= obs < 0.000943000 secs, count: 10
+0.000943000 secs <= obs < 0.000944000 secs, count: 10
+0.000944000 secs <= obs < 0.000945000 secs, count: 4
+0.000945000 secs <= obs < 0.000946000 secs, count: 4
+0.000946000 secs <= obs < 0.000947000 secs, count: 8
+0.000947000 secs <= obs < 0.000948000 secs, count: 4
+0.000948000 secs <= obs < 0.000949000 secs, count: 6
+0.000949000 secs <= obs < 0.000950000 secs, count: 5
+0.000950000 secs <= obs < 0.000951000 secs, count: 5
+0.000951000 secs <= obs < 0.000952000 secs, count: 3
+0.000952000 secs <= obs < 0.000953000 secs, count: 8
+0.000953000 secs <= obs < 0.000954000 secs, count: 4
+0.000954000 secs <= obs < 0.000955000 secs, count: 5
+0.000955000 secs <= obs < 0.000956000 secs, count: 3
+0.000956000 secs <= obs < 0.000957000 secs, count: 7
+0.000957000 secs <= obs < 0.000958000 secs, count: 9
+0.000958000 secs <= obs < 0.000959000 secs, count: 9
+0.000959000 secs <= obs < 0.000960000 secs, count: 4
+0.000960000 secs <= obs < 0.000961000 secs, count: 10
+0.000961000 secs <= obs < 0.000962000 secs, count: 4
+0.000962000 secs <= obs < 0.000963000 secs, count: 9
+0.000963000 secs <= obs < 0.000964000 secs, count: 6
+0.000964000 secs <= obs < 0.000965000 secs, count: 5
+0.000965000 secs <= obs < 0.000966000 secs, count: 3
+0.000966000 secs <= obs < 0.000967000 secs, count: 6
+0.000967000 secs <= obs < 0.000968000 secs, count: 4
+0.000968000 secs <= obs < 0.000969000 secs, count: 5
+0.000969000 secs <= obs < 0.000970000 secs, count: 3
+0.000970000 secs <= obs < 0.000971000 secs, count: 7
+0.000971000 secs <= obs < 0.000972000 secs, count: 6
+0.000972000 secs <= obs < 0.000973000 secs, count: 6
+0.000973000 secs <= obs < 0.000974000 secs, count: 4
+0.000974000 secs <= obs < 0.000975000 secs, count: 3
+0.000975000 secs <= obs < 0.000976000 secs, count: 4
+0.000976000 secs <= obs < 0.000977000 secs, count: 3
+0.000977000 secs <= obs < 0.000978000 secs, count: 7
+0.000978000 secs <= obs < 0.000979000 secs, count: 6
+0.000979000 secs <= obs < 0.000980000 secs, count: 4
+0.000980000 secs <= obs < 0.000981000 secs, count: 5
+0.000981000 secs <= obs < 0.000982000 secs, count: 3
+0.000982000 secs <= obs < 0.000983000 secs, count: 7
+0.000983000 secs <= obs < 0.000984000 secs, count: 2
+0.000984000 secs <= obs < 0.000985000 secs, count: 3
+0.000985000 secs <= obs < 0.000986000 secs, count: 7
+0.000986000 secs <= obs < 0.000987000 secs, count: 3
+0.000987000 secs <= obs < 0.000988000 secs, count: 7
+0.000988000 secs <= obs < 0.000989000 secs, count: 4
+0.000989000 secs <= obs < 0.000990000 secs, count: 3
+0.000990000 secs <= obs < 0.000991000 secs, count: 5
+0.000991000 secs <= obs < 0.000992000 secs, count: 3
+0.000992000 secs <= obs < 0.000993000 secs, count: 5
+0.000993000 secs <= obs < 0.000994000 secs, count: 3
+0.000994000 secs <= obs < 0.000995000 secs, count: 1
+0.000995000 secs <= obs < 0.000996000 secs, count: 3
+0.000996000 secs <= obs < 0.000997000 secs, count: 4
+0.000997000 secs <= obs < 0.000998000 secs, count: 3
+0.000998000 secs <= obs < 0.000999000 secs, count: 4
+0.000999000 secs <= obs < 0.001000000 secs, count: 1
+0.001000000 secs <= obs < 0.001001000 secs, count: 4
+0.001001000 secs <= obs < 0.001002000 secs, count: 6
+0.001002000 secs <= obs < 0.001003000 secs, count: 3
+0.001003000 secs <= obs < 0.001004000 secs, count: 7
+0.001004000 secs <= obs < 0.001005000 secs, count: 3
+0.001005000 secs <= obs < 0.001006000 secs, count: 5
+0.001006000 secs <= obs < 0.001007000 secs, count: 4
+0.001007000 secs <= obs < 0.001008000 secs, count: 4
+0.001008000 secs <= obs < 0.001009000 secs, count: 3
+0.001009000 secs <= obs < 0.001010000 secs, count: 7
+0.001010000 secs <= obs < 0.001011000 secs, count: 3
+0.001011000 secs <= obs < 0.001012000 secs, count: 1
+0.001012000 secs <= obs < 0.001013000 secs, count: 3
+0.001013000 secs <= obs < 0.001014000 secs, count: 4
+0.001014000 secs <= obs < 0.001015000 secs, count: 8
+0.001015000 secs <= obs < 0.001016000 secs, count: 4
+0.001016000 secs <= obs < 0.001017000 secs, count: 3
+0.001017000 secs <= obs < 0.001018000 secs, count: 4
+0.001018000 secs <= obs < 0.001019000 secs, count: 3
+0.001019000 secs <= obs < 0.001020000 secs, count: 3
+0.001020000 secs <= obs < 0.001021000 secs, count: 3
+0.001021000 secs <= obs < 0.001022000 secs, count: 1
+0.001023000 secs <= obs < 0.001024000 secs, count: 2
+0.001024000 secs <= obs < 0.001025000 secs, count: 2
+0.001025000 secs <= obs < 0.001026000 secs, count: 5
+0.001026000 secs <= obs < 0.001027000 secs, count: 1
+0.001027000 secs <= obs < 0.001028000 secs, count: 2
+0.001028000 secs <= obs < 0.001029000 secs, count: 3
+0.001029000 secs <= obs < 0.001030000 secs, count: 3
+0.001030000 secs <= obs < 0.001031000 secs, count: 2
+0.001031000 secs <= obs < 0.001032000 secs, count: 3
+0.001033000 secs <= obs < 0.001034000 secs, count: 2
+0.001034000 secs <= obs < 0.001035000 secs, count: 4
+0.001035000 secs <= obs < 0.001036000 secs, count: 1
+0.001036000 secs <= obs < 0.001037000 secs, count: 6
+0.001037000 secs <= obs < 0.001038000 secs, count: 4
+0.001038000 secs <= obs < 0.001039000 secs, count: 4
+0.001039000 secs <= obs < 0.001040000 secs, count: 2
+0.001040000 secs <= obs < 0.001041000 secs, count: 2
+0.001042000 secs <= obs < 0.001043000 secs, count: 4
+0.001043000 secs <= obs < 0.001044000 secs, count: 2
+0.001044000 secs <= obs < 0.001045000 secs, count: 3
+0.001045000 secs <= obs < 0.001046000 secs, count: 4
+0.001046000 secs <= obs < 0.001047000 secs, count: 4
+0.001047000 secs <= obs < 0.001048000 secs, count: 2
+0.001048000 secs <= obs < 0.001049000 secs, count: 2
+0.001049000 secs <= obs < 0.001050000 secs, count: 4
+0.001050000 secs <= obs < 0.001051000 secs, count: 2
+0.001051000 secs <= obs < 0.001052000 secs, count: 2
+0.001052000 secs <= obs < 0.001053000 secs, count: 3
+0.001053000 secs <= obs < 0.001054000 secs, count: 1
+0.001054000 secs <= obs < 0.001055000 secs, count: 5
+0.001055000 secs <= obs < 0.001056000 secs, count: 5
+0.001056000 secs <= obs < 0.001057000 secs, count: 1
+0.001057000 secs <= obs < 0.001058000 secs, count: 1
+0.001059000 secs <= obs < 0.001060000 secs, count: 2
+0.001060000 secs <= obs < 0.001061000 secs, count: 1
+0.001061000 secs <= obs < 0.001062000 secs, count: 2
+0.001062000 secs <= obs < 0.001063000 secs, count: 3
+0.001063000 secs <= obs < 0.001064000 secs, count: 2
+0.001064000 secs <= obs < 0.001065000 secs, count: 1
+0.001065000 secs <= obs < 0.001066000 secs, count: 2
+0.001066000 secs <= obs < 0.001067000 secs, count: 4
+0.001067000 secs <= obs < 0.001068000 secs, count: 1
+0.001069000 secs <= obs < 0.001070000 secs, count: 2
+0.001070000 secs <= obs < 0.001071000 secs, count: 3
+0.001071000 secs <= obs < 0.001072000 secs, count: 3
+0.001072000 secs <= obs < 0.001073000 secs, count: 2
+0.001073000 secs <= obs < 0.001074000 secs, count: 2
+0.001074000 secs <= obs < 0.001075000 secs, count: 4
+0.001075000 secs <= obs < 0.001076000 secs, count: 1
+0.001076000 secs <= obs < 0.001077000 secs, count: 1
+0.001077000 secs <= obs < 0.001078000 secs, count: 3
+0.001079000 secs <= obs < 0.001080000 secs, count: 3
+0.001081000 secs <= obs < 0.001082000 secs, count: 2
+0.001082000 secs <= obs < 0.001083000 secs, count: 3
+0.001083000 secs <= obs < 0.001084000 secs, count: 1
+0.001085000 secs <= obs < 0.001086000 secs, count: 3
+0.001086000 secs <= obs < 0.001087000 secs, count: 4
+0.001088000 secs <= obs < 0.001089000 secs, count: 1
+0.001089000 secs <= obs < 0.001090000 secs, count: 1
+0.001090000 secs <= obs < 0.001091000 secs, count: 2
+0.001092000 secs <= obs < 0.001093000 secs, count: 1
+0.001093000 secs <= obs < 0.001094000 secs, count: 2
+0.001094000 secs <= obs < 0.001095000 secs, count: 2
+0.001095000 secs <= obs < 0.001096000 secs, count: 1
+0.001096000 secs <= obs < 0.001097000 secs, count: 1
+0.001097000 secs <= obs < 0.001098000 secs, count: 1
+0.001098000 secs <= obs < 0.001099000 secs, count: 1
+0.001099000 secs <= obs < 0.001100000 secs, count: 1
+0.001101000 secs <= obs < 0.001102000 secs, count: 2
+0.001102000 secs <= obs < 0.001103000 secs, count: 1
+0.001104000 secs <= obs < 0.001105000 secs, count: 2
+0.001105000 secs <= obs < 0.001106000 secs, count: 5
+0.001108000 secs <= obs < 0.001109000 secs, count: 1
+0.001109000 secs <= obs < 0.001110000 secs, count: 1
+0.001111000 secs <= obs < 0.001112000 secs, count: 1
+0.001113000 secs <= obs < 0.001114000 secs, count: 1
+0.001114000 secs <= obs < 0.001115000 secs, count: 1
+0.001115000 secs <= obs < 0.001116000 secs, count: 1
+0.001116000 secs <= obs < 0.001117000 secs, count: 1
+0.001120000 secs <= obs < 0.001121000 secs, count: 1
+0.001122000 secs <= obs < 0.001123000 secs, count: 1
+0.001123000 secs <= obs < 0.001124000 secs, count: 1
+0.001129000 secs <= obs < 0.001130000 secs, count: 1
+0.001131000 secs <= obs < 0.001132000 secs, count: 1
+0.001132000 secs <= obs < 0.001133000 secs, count: 2
+0.001133000 secs <= obs < 0.001134000 secs, count: 1
+0.001134000 secs <= obs < 0.001135000 secs, count: 2
+0.001135000 secs <= obs < 0.001136000 secs, count: 2
+0.001137000 secs <= obs < 0.001138000 secs, count: 1
+0.001138000 secs <= obs < 0.001139000 secs, count: 1
+0.001139000 secs <= obs < 0.001140000 secs, count: 1
+0.001140000 secs <= obs < 0.001141000 secs, count: 1
+0.001145000 secs <= obs < 0.001146000 secs, count: 1
+0.001152000 secs <= obs < 0.001153000 secs, count: 1
+0.001153000 secs <= obs < 0.001154000 secs, count: 1
+0.001155000 secs <= obs < 0.001156000 secs, count: 1
+0.001156000 secs <= obs < 0.001157000 secs, count: 1
+0.001159000 secs <= obs < 0.001160000 secs, count: 1
+0.001161000 secs <= obs < 0.001162000 secs, count: 2
+0.001162000 secs <= obs < 0.001163000 secs, count: 1
+0.001167000 secs <= obs < 0.001168000 secs, count: 1
+0.001170000 secs <= obs < 0.001171000 secs, count: 1
+0.001175000 secs <= obs < 0.001176000 secs, count: 2
+0.001176000 secs <= obs < 0.001177000 secs, count: 1
+0.001184000 secs <= obs < 0.001185000 secs, count: 1
+0.001187000 secs <= obs < 0.001188000 secs, count: 1
+0.001190000 secs <= obs < 0.001191000 secs, count: 1
+0.001192000 secs <= obs < 0.001193000 secs, count: 1
+0.001200000 secs <= obs < 0.001201000 secs, count: 1
+0.001214000 secs <= obs < 0.001215000 secs, count: 1
+0.001218000 secs <= obs < 0.001219000 secs, count: 1
+0.001225000 secs <= obs < 0.001226000 secs, count: 1
+0.001229000 secs <= obs < 0.001230000 secs, count: 1
+0.001242000 secs <= obs < 0.001243000 secs, count: 1
+0.001246000 secs <= obs < 0.001247000 secs, count: 1
+0.001247000 secs <= obs < 0.001248000 secs, count: 1
+0.001269000 secs <= obs < 0.001270000 secs, count: 1
+0.001277000 secs <= obs < 0.001278000 secs, count: 1
+0.001283000 secs <= obs < 0.001284000 secs, count: 1
+0.001301000 secs <= obs < 0.001302000 secs, count: 1
+0.001371000 secs <= obs < 0.001372000 secs, count: 1
+0.001705000 secs <= obs < 0.001706000 secs, count: 1
+Max Observation: 0.001705799 secs
+
+0.000001000 | 0.001705799 | 0.000972813

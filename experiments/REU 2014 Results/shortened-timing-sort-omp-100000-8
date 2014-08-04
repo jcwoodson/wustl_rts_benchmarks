@@ -1,0 +1,13 @@
+0.002640000 secs <= obs < 0.002650000 secs, count: 4
+0.002650000 secs <= obs < 0.002660000 secs, count: 145
+0.002660000 secs <= obs < 0.002670000 secs, count: 712
+0.002670000 secs <= obs < 0.002680000 secs, count: 820
+0.002680000 secs <= obs < 0.002690000 secs, count: 269
+0.002690000 secs <= obs < 0.002700000 secs, count: 42
+0.002700000 secs <= obs < 0.002710000 secs, count: 5
+0.002710000 secs <= obs < 0.002720000 secs, count: 1
+0.002720000 secs <= obs < 0.002730000 secs, count: 1
+0.002820000 secs <= obs < 0.002830000 secs, count: 1
+Max Observation: 0.002822195 secs
+
+0.000001000 | 0.002822195 | 0.002671797

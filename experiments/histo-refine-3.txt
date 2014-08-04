@@ -1,0 +1,11 @@
+from Triangles : PBBS-time: 0.000524
+initializing : PBBS-time: 0.000339
+Start : PBBS-time: 9.08e-05
+numBad = 2004
+numBad = 1593
+numBad = 1465
+numBad = 1244
+numBad = 851
+numBad = 612
+numBad = 368
+ran out of vertices

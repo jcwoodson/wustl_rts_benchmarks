@@ -1,0 +1,460 @@
+build tree : PBBS-time: 3.19e-05
+up sweep : PBBS-time: 8.8e-05
+interactions : PBBS-time: 1.19e-05
+do Indirect : PBBS-time: 5.96e-06
+down sweep : PBBS-time: 4.82e-05
+do Direct : PBBS-time: 1.19e-05
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000332
+
+build tree : PBBS-time: 7.15e-06
+up sweep : PBBS-time: 2.6e-05
+interactions : PBBS-time: 5.96e-06
+do Indirect : PBBS-time: 4.05e-06
+down sweep : PBBS-time: 4.1e-05
+do Direct : PBBS-time: 8.82e-06
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000209
+
+build tree : PBBS-time: 6.91e-06
+up sweep : PBBS-time: 2.81e-05
+interactions : PBBS-time: 4.77e-06
+do Indirect : PBBS-time: 4.05e-06
+down sweep : PBBS-time: 4.2e-05
+do Direct : PBBS-time: 1e-05
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.00021
+
+build tree : PBBS-time: 9.06e-06
+up sweep : PBBS-time: 2.48e-05
+interactions : PBBS-time: 5.01e-06
+do Indirect : PBBS-time: 5.01e-06
+down sweep : PBBS-time: 4.01e-05
+do Direct : PBBS-time: 1.1e-05
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000203
+
+build tree : PBBS-time: 7.15e-06
+up sweep : PBBS-time: 2.6e-05
+interactions : PBBS-time: 5.96e-06
+do Indirect : PBBS-time: 4.05e-06
+down sweep : PBBS-time: 4.2e-05
+do Direct : PBBS-time: 1.1e-05
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000205
+
+build tree : PBBS-time: 6.2e-06
+up sweep : PBBS-time: 2.79e-05
+interactions : PBBS-time: 5.01e-06
+do Indirect : PBBS-time: 4.05e-06
+down sweep : PBBS-time: 4.1e-05
+do Direct : PBBS-time: 8.82e-06
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000215
+
+build tree : PBBS-time: 9.06e-06
+up sweep : PBBS-time: 2.91e-05
+interactions : PBBS-time: 4.77e-06
+do Indirect : PBBS-time: 4.05e-06
+down sweep : PBBS-time: 4.1e-05
+do Direct : PBBS-time: 8.11e-06
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000208
+
+build tree : PBBS-time: 5.96e-06
+up sweep : PBBS-time: 2.5e-05
+interactions : PBBS-time: 5.01e-06
+do Indirect : PBBS-time: 5.01e-06
+down sweep : PBBS-time: 4.01e-05
+do Direct : PBBS-time: 1.1e-05
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.0002
+
+build tree : PBBS-time: 6.91e-06
+up sweep : PBBS-time: 2.91e-05
+interactions : PBBS-time: 5.01e-06
+do Indirect : PBBS-time: 4.05e-06
+down sweep : PBBS-time: 4.2e-05
+do Direct : PBBS-time: 1.29e-05
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000208
+
+build tree : PBBS-time: 5.96e-06
+up sweep : PBBS-time: 2.38e-05
+interactions : PBBS-time: 5.01e-06
+do Indirect : PBBS-time: 4.05e-06
+down sweep : PBBS-time: 4.1e-05
+do Direct : PBBS-time: 1e-05
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000195
+
+build tree : PBBS-time: 7.87e-06
+up sweep : PBBS-time: 2.6e-05
+interactions : PBBS-time: 5.01e-06
+do Indirect : PBBS-time: 4.05e-06
+down sweep : PBBS-time: 4.32e-05
+do Direct : PBBS-time: 1.69e-05
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000209
+
+build tree : PBBS-time: 9.06e-06
+up sweep : PBBS-time: 2.6e-05
+interactions : PBBS-time: 5.96e-06
+do Indirect : PBBS-time: 4.05e-06
+down sweep : PBBS-time: 4.1e-05
+do Direct : PBBS-time: 8.82e-06
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000202
+
+build tree : PBBS-time: 6.2e-06
+up sweep : PBBS-time: 2.38e-05
+interactions : PBBS-time: 5.01e-06
+do Indirect : PBBS-time: 4.05e-06
+down sweep : PBBS-time: 4.1e-05
+do Direct : PBBS-time: 1.41e-05
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.0002
+
+build tree : PBBS-time: 7.87e-06
+up sweep : PBBS-time: 2.6e-05
+interactions : PBBS-time: 5.01e-06
+do Indirect : PBBS-time: 4.05e-06
+down sweep : PBBS-time: 4.1e-05
+do Direct : PBBS-time: 1.29e-05
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000202
+
+build tree : PBBS-time: 5.96e-06
+up sweep : PBBS-time: 2.5e-05
+interactions : PBBS-time: 4.05e-06
+do Indirect : PBBS-time: 5.01e-06
+down sweep : PBBS-time: 4.1e-05
+do Direct : PBBS-time: 1.1e-05
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000204
+
+build tree : PBBS-time: 1e-05
+up sweep : PBBS-time: 2.5e-05
+interactions : PBBS-time: 5.01e-06
+do Indirect : PBBS-time: 5.01e-06
+down sweep : PBBS-time: 3.98e-05
+do Direct : PBBS-time: 9.06e-06
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000212
+
+build tree : PBBS-time: 6.91e-06
+up sweep : PBBS-time: 2.6e-05
+interactions : PBBS-time: 5.96e-06
+do Indirect : PBBS-time: 1.81e-05
+down sweep : PBBS-time: 4.01e-05
+do Direct : PBBS-time: 1e-05
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000219
+
+build tree : PBBS-time: 5.96e-06
+up sweep : PBBS-time: 2.6e-05
+interactions : PBBS-time: 5.01e-06
+do Indirect : PBBS-time: 4.05e-06
+down sweep : PBBS-time: 4.1e-05
+do Direct : PBBS-time: 1.41e-05
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000204
+
+build tree : PBBS-time: 1e-05
+up sweep : PBBS-time: 2.38e-05
+interactions : PBBS-time: 5.01e-06
+do Indirect : PBBS-time: 5.01e-06
+down sweep : PBBS-time: 4.01e-05
+do Direct : PBBS-time: 1e-05
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000198
+
+build tree : PBBS-time: 5.96e-06
+up sweep : PBBS-time: 2.5e-05
+interactions : PBBS-time: 5.01e-06
+do Indirect : PBBS-time: 5.01e-06
+down sweep : PBBS-time: 4.01e-05
+do Direct : PBBS-time: 1.29e-05
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000199
+
+build tree : PBBS-time: 5.96e-06
+up sweep : PBBS-time: 2.5e-05
+interactions : PBBS-time: 5.01e-06
+do Indirect : PBBS-time: 3.81e-06
+down sweep : PBBS-time: 4.01e-05
+do Direct : PBBS-time: 1.19e-05
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000196
+
+build tree : PBBS-time: 9.06e-06
+up sweep : PBBS-time: 2.6e-05
+interactions : PBBS-time: 5.01e-06
+do Indirect : PBBS-time: 4.05e-06
+down sweep : PBBS-time: 4.1e-05
+do Direct : PBBS-time: 9.06e-06
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000206
+
+build tree : PBBS-time: 9.06e-06
+up sweep : PBBS-time: 2.88e-05
+interactions : PBBS-time: 5.01e-06
+do Indirect : PBBS-time: 5.01e-06
+down sweep : PBBS-time: 4.01e-05
+do Direct : PBBS-time: 1e-05
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000211
+
+build tree : PBBS-time: 7.15e-06
+up sweep : PBBS-time: 2.69e-05
+interactions : PBBS-time: 5.96e-06
+do Indirect : PBBS-time: 5.01e-06
+down sweep : PBBS-time: 4.91e-05
+do Direct : PBBS-time: 7.87e-06
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000206
+
+build tree : PBBS-time: 6.91e-06
+up sweep : PBBS-time: 3.31e-05
+interactions : PBBS-time: 5.01e-06
+do Indirect : PBBS-time: 5.01e-06
+down sweep : PBBS-time: 3.98e-05
+do Direct : PBBS-time: 8.11e-06
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000208
+
+build tree : PBBS-time: 5.96e-06
+up sweep : PBBS-time: 2.72e-05
+interactions : PBBS-time: 5.96e-06
+do Indirect : PBBS-time: 3.81e-06
+down sweep : PBBS-time: 5.01e-05
+do Direct : PBBS-time: 1e-05
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000208
+
+build tree : PBBS-time: 1e-05
+up sweep : PBBS-time: 2.69e-05
+interactions : PBBS-time: 5.01e-06
+do Indirect : PBBS-time: 5.01e-06
+down sweep : PBBS-time: 4.79e-05
+do Direct : PBBS-time: 8.11e-06
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000211
+
+build tree : PBBS-time: 5.96e-06
+up sweep : PBBS-time: 2.81e-05
+interactions : PBBS-time: 5.96e-06
+do Indirect : PBBS-time: 4.05e-06
+down sweep : PBBS-time: 4.79e-05
+do Direct : PBBS-time: 9.06e-06
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000209
+
+build tree : PBBS-time: 5.96e-06
+up sweep : PBBS-time: 2.6e-05
+interactions : PBBS-time: 5.96e-06
+do Indirect : PBBS-time: 4.05e-06
+down sweep : PBBS-time: 5.29e-05
+do Direct : PBBS-time: 1e-05
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000216
+
+build tree : PBBS-time: 5.96e-06
+up sweep : PBBS-time: 2.69e-05
+interactions : PBBS-time: 5.01e-06
+do Indirect : PBBS-time: 5.01e-06
+down sweep : PBBS-time: 4.82e-05
+do Direct : PBBS-time: 1.1e-05
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000213
+
+build tree : PBBS-time: 6.91e-06
+up sweep : PBBS-time: 2.6e-05
+interactions : PBBS-time: 5.01e-06
+do Indirect : PBBS-time: 5.01e-06
+down sweep : PBBS-time: 4.82e-05
+do Direct : PBBS-time: 8.82e-06
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000203
+
+build tree : PBBS-time: 6.2e-06
+up sweep : PBBS-time: 2.48e-05
+interactions : PBBS-time: 5.01e-06
+do Indirect : PBBS-time: 5.01e-06
+down sweep : PBBS-time: 4.01e-05
+do Direct : PBBS-time: 9.06e-06
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000194
+
+build tree : PBBS-time: 7.87e-06
+up sweep : PBBS-time: 2.6e-05
+interactions : PBBS-time: 5.01e-06
+do Indirect : PBBS-time: 5.01e-06
+down sweep : PBBS-time: 4.6e-05
+do Direct : PBBS-time: 9.06e-06
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000209
+
+build tree : PBBS-time: 8.11e-06
+up sweep : PBBS-time: 2.6e-05
+interactions : PBBS-time: 5.01e-06
+do Indirect : PBBS-time: 5.01e-06
+down sweep : PBBS-time: 4.79e-05
+do Direct : PBBS-time: 8.11e-06
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000218
+
+build tree : PBBS-time: 6.2e-06
+up sweep : PBBS-time: 2.48e-05
+interactions : PBBS-time: 5.01e-06
+do Indirect : PBBS-time: 4.05e-06
+down sweep : PBBS-time: 4.01e-05
+do Direct : PBBS-time: 7.87e-06
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000191
+
+build tree : PBBS-time: 7.15e-06
+up sweep : PBBS-time: 2.79e-05
+interactions : PBBS-time: 5.01e-06
+do Indirect : PBBS-time: 4.05e-06
+down sweep : PBBS-time: 4.1e-05
+do Direct : PBBS-time: 1e-05
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000198
+
+build tree : PBBS-time: 6.91e-06
+up sweep : PBBS-time: 2.41e-05
+interactions : PBBS-time: 5.01e-06
+do Indirect : PBBS-time: 3.81e-06
+down sweep : PBBS-time: 4.1e-05
+do Direct : PBBS-time: 8.11e-06
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000194
+
+build tree : PBBS-time: 8.82e-06
+up sweep : PBBS-time: 2.6e-05
+interactions : PBBS-time: 5.01e-06
+do Indirect : PBBS-time: 5.01e-06
+down sweep : PBBS-time: 4.1e-05
+do Direct : PBBS-time: 9.06e-06
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000204
+
+build tree : PBBS-time: 6.91e-06
+up sweep : PBBS-time: 2.69e-05
+interactions : PBBS-time: 5.01e-06
+do Indirect : PBBS-time: 4.05e-06
+down sweep : PBBS-time: 4.2e-05
+do Direct : PBBS-time: 1e-05
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000199
+
+build tree : PBBS-time: 6.91e-06
+up sweep : PBBS-time: 2.5e-05
+interactions : PBBS-time: 4.05e-06
+do Indirect : PBBS-time: 5.01e-06
+down sweep : PBBS-time: 4.1e-05
+do Direct : PBBS-time: 7.87e-06
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.0002
+
+build tree : PBBS-time: 5.96e-06
+up sweep : PBBS-time: 2.62e-05
+interactions : PBBS-time: 5.01e-06
+do Indirect : PBBS-time: 4.77e-06
+down sweep : PBBS-time: 4.72e-05
+do Direct : PBBS-time: 1e-05
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000203
+
+build tree : PBBS-time: 5.96e-06
+up sweep : PBBS-time: 2.41e-05
+interactions : PBBS-time: 5.01e-06
+do Indirect : PBBS-time: 5.01e-06
+down sweep : PBBS-time: 4.1e-05
+do Direct : PBBS-time: 1e-05
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000195
+
+build tree : PBBS-time: 6.91e-06
+up sweep : PBBS-time: 2.5e-05
+interactions : PBBS-time: 5.01e-06
+do Indirect : PBBS-time: 5.01e-06
+down sweep : PBBS-time: 4.41e-05
+do Direct : PBBS-time: 1e-05
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000199
+
+build tree : PBBS-time: 8.11e-06
+up sweep : PBBS-time: 2.5e-05
+interactions : PBBS-time: 5.01e-06
+do Indirect : PBBS-time: 5.01e-06
+down sweep : PBBS-time: 3.98e-05
+do Direct : PBBS-time: 1.12e-05
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000198
+
+build tree : PBBS-time: 6.91e-06
+up sweep : PBBS-time: 2.6e-05
+interactions : PBBS-time: 5.96e-06
+do Indirect : PBBS-time: 5.01e-06
+down sweep : PBBS-time: 4.41e-05
+do Direct : PBBS-time: 1.29e-05
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000208
+
+build tree : PBBS-time: 7.15e-06
+up sweep : PBBS-time: 2.98e-05
+interactions : PBBS-time: 5.01e-06
+do Indirect : PBBS-time: 5.01e-06
+down sweep : PBBS-time: 4.91e-05
+do Direct : PBBS-time: 9.06e-06
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000221
+
+build tree : PBBS-time: 7.87e-06
+up sweep : PBBS-time: 2.5e-05
+interactions : PBBS-time: 5.01e-06
+do Indirect : PBBS-time: 5.01e-06
+down sweep : PBBS-time: 4.01e-05
+do Direct : PBBS-time: 9.06e-06
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000195
+
+build tree : PBBS-time: 7.87e-06
+up sweep : PBBS-time: 2.62e-05
+interactions : PBBS-time: 5.01e-06
+do Indirect : PBBS-time: 4.77e-06
+down sweep : PBBS-time: 4.01e-05
+do Direct : PBBS-time: 9.06e-06
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000204
+
+build tree : PBBS-time: 5.96e-06
+up sweep : PBBS-time: 2.62e-05
+interactions : PBBS-time: 5.01e-06
+do Indirect : PBBS-time: 4.77e-06
+down sweep : PBBS-time: 4.82e-05
+do Direct : PBBS-time: 1.19e-05
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000205
+
+build tree : PBBS-time: 6.91e-06
+up sweep : PBBS-time: 2.69e-05
+interactions : PBBS-time: 5.01e-06
+do Indirect : PBBS-time: 5.01e-06
+down sweep : PBBS-time: 5.1e-05
+do Direct : PBBS-time: 9.06e-06
+Direct = 0 Indirect = 0 Boxes = 1
+PBBS-time: 0.000207
+
+0.000200000 secs <= obs < 0.000210000 secs, count: 6
+0.000210000 secs <= obs < 0.000220000 secs, count: 18
+0.000220000 secs <= obs < 0.000230000 secs, count: 15
+0.000230000 secs <= obs < 0.000240000 secs, count: 8
+0.000240000 secs <= obs < 0.000250000 secs, count: 1
+0.000260000 secs <= obs < 0.000270000 secs, count: 1
+0.000360000 secs <= obs < 0.000370000 secs, count: 1
+Max Observation: 0.000360904 secs
+
+0.000010000 | 0.000360904 | 0.000224338

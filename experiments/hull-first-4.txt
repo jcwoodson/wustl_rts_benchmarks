@@ -1,0 +1,106 @@
+PBBS-time: 0.00142
+
+PBBS-time: 0.00129
+
+PBBS-time: 0.00128
+
+PBBS-time: 0.00125
+
+PBBS-time: 0.00126
+
+PBBS-time: 0.00127
+
+PBBS-time: 0.00126
+
+PBBS-time: 0.0013
+
+PBBS-time: 0.00128
+
+PBBS-time: 0.00131
+
+PBBS-time: 0.00131
+
+PBBS-time: 0.00128
+
+PBBS-time: 0.00131
+
+PBBS-time: 0.00128
+
+PBBS-time: 0.0013
+
+PBBS-time: 0.00129
+
+PBBS-time: 0.0013
+
+PBBS-time: 0.00129
+
+PBBS-time: 0.00139
+
+PBBS-time: 0.00129
+
+PBBS-time: 0.00129
+
+PBBS-time: 0.00129
+
+PBBS-time: 0.0013
+
+PBBS-time: 0.00128
+
+PBBS-time: 0.00126
+
+PBBS-time: 0.00129
+
+PBBS-time: 0.0013
+
+PBBS-time: 0.00128
+
+PBBS-time: 0.00128
+
+PBBS-time: 0.00128
+
+PBBS-time: 0.00129
+
+PBBS-time: 0.00128
+
+PBBS-time: 0.00129
+
+PBBS-time: 0.00128
+
+PBBS-time: 0.00127
+
+PBBS-time: 0.00128
+
+PBBS-time: 0.00129
+
+PBBS-time: 0.00131
+
+PBBS-time: 0.00128
+
+PBBS-time: 0.00128
+
+PBBS-time: 0.00128
+
+PBBS-time: 0.00129
+
+PBBS-time: 0.00129
+
+PBBS-time: 0.00128
+
+PBBS-time: 0.00129
+
+PBBS-time: 0.00128
+
+PBBS-time: 0.00128
+
+PBBS-time: 0.00129
+
+PBBS-time: 0.00129
+
+PBBS-time: 0.00128
+
+0.001200000 secs <= obs < 0.001300000 secs, count: 33
+0.001300000 secs <= obs < 0.001400000 secs, count: 15
+0.001400000 secs <= obs < 0.001500000 secs, count: 2
+Max Observation: 0.001482307 secs
+
+0.000100000 | 0.001482307 | 0.001300538

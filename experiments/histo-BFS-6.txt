@@ -1,0 +1,2010 @@
+PBBS-time: 0.359
+
+PBBS-time: 0.359
+
+PBBS-time: 0.359
+
+PBBS-time: 0.36
+
+PBBS-time: 0.36
+
+PBBS-time: 0.36
+
+PBBS-time: 0.36
+
+PBBS-time: 0.36
+
+PBBS-time: 0.359
+
+PBBS-time: 0.36
+
+PBBS-time: 0.36
+
+PBBS-time: 0.36
+
+PBBS-time: 0.359
+
+PBBS-time: 0.36
+
+PBBS-time: 0.359
+
+PBBS-time: 0.36
+
+PBBS-time: 0.36
+
+PBBS-time: 0.36
+
+PBBS-time: 0.36
+
+PBBS-time: 0.36
+
+PBBS-time: 0.36
+
+PBBS-time: 0.359
+
+PBBS-time: 0.36
+
+PBBS-time: 0.359
+
+PBBS-time: 0.36
+
+PBBS-time: 0.36
+
+PBBS-time: 0.36
+
+PBBS-time: 0.36
+
+PBBS-time: 0.359
+
+PBBS-time: 0.36
+
+PBBS-time: 0.36
+
+PBBS-time: 0.359
+
+PBBS-time: 0.36
+
+PBBS-time: 0.359
+
+PBBS-time: 0.36
+
+PBBS-time: 0.36
+
+PBBS-time: 0.36
+
+PBBS-time: 0.36
+
+PBBS-time: 0.36
+
+PBBS-time: 0.36
+
+PBBS-time: 0.36
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.345
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.344
+
+PBBS-time: 0.345
+
+1.130000000 secs <= obs < 1.131000000 secs, count: 92
+1.131000000 secs <= obs < 1.132000000 secs, count: 663
+1.132000000 secs <= obs < 1.133000000 secs, count: 202
+1.133000000 secs <= obs < 1.134000000 secs, count: 1
+1.145000000 secs <= obs < 1.146000000 secs, count: 1
+1.161000000 secs <= obs < 1.162000000 secs, count: 19
+1.162000000 secs <= obs < 1.163000000 secs, count: 22
+Max Observation: 1.162881601 secs
+
+0.001000000 | 1.162881601 | 1.132878591

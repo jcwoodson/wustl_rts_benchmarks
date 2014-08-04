@@ -1,0 +1,2078 @@
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.11
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.1
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.06
+
+PBBS-time: 1.08
+
+PBBS-time: 1.07
+
+PBBS-time: 1.05
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.1
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.1
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.11
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.1
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.11
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.11
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.11
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.11
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.11
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.1
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.08
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.11
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.08
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.08
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.11
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.07
+
+PBBS-time: 1.1
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.11
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.06
+
+PBBS-time: 1.08
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.08
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.08
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.08
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.1
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.1
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.11
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.1
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.1
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.1
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.11
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.08
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.11
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.11
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.1
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.05
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.11
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.08
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.12
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.1
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.11
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.1
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.1
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.11
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.08
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.11
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.12
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.08
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.08
+
+PBBS-time: 1.07
+
+PBBS-time: 1.11
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.1
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.11
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.08
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.1
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.1
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.11
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.08
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.11
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.11
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.1
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.1
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.1
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.08
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.1
+
+PBBS-time: 1.08
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.08
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.11
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.1
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.1
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.08
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.1
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.11
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.08
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.11
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.1
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.1
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.1
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.08
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.1
+
+PBBS-time: 1.06
+
+PBBS-time: 1.06
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.11
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.07
+
+PBBS-time: 1.08
+
+2.182000000 secs <= obs < 2.183000000 secs, count: 1
+2.193000000 secs <= obs < 2.194000000 secs, count: 4
+2.194000000 secs <= obs < 2.195000000 secs, count: 3
+2.195000000 secs <= obs < 2.196000000 secs, count: 3
+2.196000000 secs <= obs < 2.197000000 secs, count: 6
+2.197000000 secs <= obs < 2.198000000 secs, count: 5
+2.198000000 secs <= obs < 2.199000000 secs, count: 4
+2.199000000 secs <= obs < 2.200000000 secs, count: 5
+2.200000000 secs <= obs < 2.201000000 secs, count: 6
+2.201000000 secs <= obs < 2.202000000 secs, count: 16
+2.202000000 secs <= obs < 2.203000000 secs, count: 12
+2.203000000 secs <= obs < 2.204000000 secs, count: 21
+2.204000000 secs <= obs < 2.205000000 secs, count: 24
+2.205000000 secs <= obs < 2.206000000 secs, count: 30
+2.206000000 secs <= obs < 2.207000000 secs, count: 34
+2.207000000 secs <= obs < 2.208000000 secs, count: 29
+2.208000000 secs <= obs < 2.209000000 secs, count: 39
+2.209000000 secs <= obs < 2.210000000 secs, count: 43
+2.210000000 secs <= obs < 2.211000000 secs, count: 44
+2.211000000 secs <= obs < 2.212000000 secs, count: 45
+2.212000000 secs <= obs < 2.213000000 secs, count: 41
+2.213000000 secs <= obs < 2.214000000 secs, count: 46
+2.214000000 secs <= obs < 2.215000000 secs, count: 42
+2.215000000 secs <= obs < 2.216000000 secs, count: 39
+2.216000000 secs <= obs < 2.217000000 secs, count: 37
+2.217000000 secs <= obs < 2.218000000 secs, count: 21
+2.218000000 secs <= obs < 2.219000000 secs, count: 30
+2.219000000 secs <= obs < 2.220000000 secs, count: 27
+2.220000000 secs <= obs < 2.221000000 secs, count: 21
+2.221000000 secs <= obs < 2.222000000 secs, count: 20
+2.222000000 secs <= obs < 2.223000000 secs, count: 16
+2.223000000 secs <= obs < 2.224000000 secs, count: 18
+2.224000000 secs <= obs < 2.225000000 secs, count: 11
+2.225000000 secs <= obs < 2.226000000 secs, count: 11
+2.226000000 secs <= obs < 2.227000000 secs, count: 9
+2.227000000 secs <= obs < 2.228000000 secs, count: 4
+2.228000000 secs <= obs < 2.229000000 secs, count: 1
+2.229000000 secs <= obs < 2.230000000 secs, count: 4
+2.230000000 secs <= obs < 2.231000000 secs, count: 3
+2.231000000 secs <= obs < 2.232000000 secs, count: 4
+2.232000000 secs <= obs < 2.233000000 secs, count: 1
+2.233000000 secs <= obs < 2.234000000 secs, count: 2
+2.234000000 secs <= obs < 2.235000000 secs, count: 2
+2.235000000 secs <= obs < 2.236000000 secs, count: 3
+2.237000000 secs <= obs < 2.238000000 secs, count: 2
+2.238000000 secs <= obs < 2.239000000 secs, count: 1
+2.239000000 secs <= obs < 2.240000000 secs, count: 1
+2.240000000 secs <= obs < 2.241000000 secs, count: 3
+2.241000000 secs <= obs < 2.242000000 secs, count: 5
+2.242000000 secs <= obs < 2.243000000 secs, count: 6
+2.243000000 secs <= obs < 2.244000000 secs, count: 7
+2.244000000 secs <= obs < 2.245000000 secs, count: 9
+2.245000000 secs <= obs < 2.246000000 secs, count: 10
+2.246000000 secs <= obs < 2.247000000 secs, count: 13
+2.247000000 secs <= obs < 2.248000000 secs, count: 11
+2.248000000 secs <= obs < 2.249000000 secs, count: 8
+2.249000000 secs <= obs < 2.250000000 secs, count: 8
+2.250000000 secs <= obs < 2.251000000 secs, count: 11
+2.251000000 secs <= obs < 2.252000000 secs, count: 6
+2.252000000 secs <= obs < 2.253000000 secs, count: 14
+2.253000000 secs <= obs < 2.254000000 secs, count: 16
+2.254000000 secs <= obs < 2.255000000 secs, count: 11
+2.255000000 secs <= obs < 2.256000000 secs, count: 6
+2.256000000 secs <= obs < 2.257000000 secs, count: 12
+2.257000000 secs <= obs < 2.258000000 secs, count: 7
+2.258000000 secs <= obs < 2.259000000 secs, count: 12
+2.259000000 secs <= obs < 2.260000000 secs, count: 11
+2.260000000 secs <= obs < 2.261000000 secs, count: 8
+2.261000000 secs <= obs < 2.262000000 secs, count: 4
+2.262000000 secs <= obs < 2.263000000 secs, count: 2
+2.263000000 secs <= obs < 2.264000000 secs, count: 1
+2.264000000 secs <= obs < 2.265000000 secs, count: 2
+2.265000000 secs <= obs < 2.266000000 secs, count: 3
+2.266000000 secs <= obs < 2.267000000 secs, count: 2
+2.273000000 secs <= obs < 2.274000000 secs, count: 1
+Max Observation: 2.273679527 secs
+
+0.001000000 | 2.273679527 | 2.221127909

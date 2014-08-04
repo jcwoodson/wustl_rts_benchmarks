@@ -1,0 +1,2044 @@
+PBBS-time: 5.01e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.39e-05
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 5.96e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 1.91e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 5.96e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 5.96e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 5.96e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 5.96e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 6.2e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 5.96e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 5.96e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.77e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 5.96e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 6.91e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 5.96e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 7.87e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 5.96e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 5.96e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 5.96e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 5.96e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 7.87e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 5.96e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 7.15e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 6.91e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 6.2e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.77e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 5.96e-06
+
+PBBS-time: 7.15e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 7.15e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 9.06e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 5.96e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.77e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 9.06e-06
+
+PBBS-time: 8.11e-06
+
+PBBS-time: 5.96e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 5.96e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 6.2e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 6.2e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 5.96e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 5.96e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 5.96e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 5.96e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 7.15e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 5.01e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 6.91e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 2.86e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.81e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 4.05e-06
+
+PBBS-time: 3.1e-06
+
+0.000025000 secs <= obs < 0.000026000 secs, count: 3
+0.000027000 secs <= obs < 0.000028000 secs, count: 2
+0.000028000 secs <= obs < 0.000029000 secs, count: 6
+0.000029000 secs <= obs < 0.000030000 secs, count: 6
+0.000030000 secs <= obs < 0.000031000 secs, count: 5
+0.000031000 secs <= obs < 0.000032000 secs, count: 9
+0.000032000 secs <= obs < 0.000033000 secs, count: 8
+0.000033000 secs <= obs < 0.000034000 secs, count: 8
+0.000034000 secs <= obs < 0.000035000 secs, count: 7
+0.000035000 secs <= obs < 0.000036000 secs, count: 17
+0.000036000 secs <= obs < 0.000037000 secs, count: 17
+0.000037000 secs <= obs < 0.000038000 secs, count: 21
+0.000038000 secs <= obs < 0.000039000 secs, count: 25
+0.000039000 secs <= obs < 0.000040000 secs, count: 41
+0.000040000 secs <= obs < 0.000041000 secs, count: 40
+0.000041000 secs <= obs < 0.000042000 secs, count: 63
+0.000042000 secs <= obs < 0.000043000 secs, count: 77
+0.000043000 secs <= obs < 0.000044000 secs, count: 66
+0.000044000 secs <= obs < 0.000045000 secs, count: 76
+0.000045000 secs <= obs < 0.000046000 secs, count: 65
+0.000046000 secs <= obs < 0.000047000 secs, count: 88
+0.000047000 secs <= obs < 0.000048000 secs, count: 59
+0.000048000 secs <= obs < 0.000049000 secs, count: 53
+0.000049000 secs <= obs < 0.000050000 secs, count: 59
+0.000050000 secs <= obs < 0.000051000 secs, count: 52
+0.000051000 secs <= obs < 0.000052000 secs, count: 34
+0.000052000 secs <= obs < 0.000053000 secs, count: 27
+0.000053000 secs <= obs < 0.000054000 secs, count: 13
+0.000054000 secs <= obs < 0.000055000 secs, count: 19
+0.000055000 secs <= obs < 0.000056000 secs, count: 15
+0.000057000 secs <= obs < 0.000058000 secs, count: 4
+0.000058000 secs <= obs < 0.000059000 secs, count: 2
+0.000060000 secs <= obs < 0.000061000 secs, count: 2
+0.000062000 secs <= obs < 0.000063000 secs, count: 3
+0.000064000 secs <= obs < 0.000065000 secs, count: 1
+0.000066000 secs <= obs < 0.000067000 secs, count: 1
+0.000067000 secs <= obs < 0.000068000 secs, count: 2
+0.000077000 secs <= obs < 0.000078000 secs, count: 1
+0.000079000 secs <= obs < 0.000080000 secs, count: 1
+0.000092000 secs <= obs < 0.000093000 secs, count: 1
+0.000115000 secs <= obs < 0.000116000 secs, count: 1
+Max Observation: 0.000115761 secs
+
+0.000001000 | 0.000115761 | 0.000045028

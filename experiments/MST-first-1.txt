@@ -1,0 +1,128 @@
+PBBS-time: 0.000465
+
+PBBS-time: 0.000466
+
+PBBS-time: 0.000437
+
+PBBS-time: 0.000421
+
+PBBS-time: 0.000412
+
+PBBS-time: 0.000412
+
+PBBS-time: 0.000458
+
+PBBS-time: 0.000422
+
+PBBS-time: 0.000464
+
+PBBS-time: 0.000393
+
+PBBS-time: 0.000418
+
+PBBS-time: 0.00039
+
+PBBS-time: 0.000504
+
+PBBS-time: 0.000443
+
+PBBS-time: 0.000411
+
+PBBS-time: 0.000439
+
+PBBS-time: 0.000412
+
+PBBS-time: 0.000465
+
+PBBS-time: 0.000499
+
+PBBS-time: 0.000558
+
+PBBS-time: 0.000442
+
+PBBS-time: 0.000398
+
+PBBS-time: 0.000441
+
+PBBS-time: 0.000423
+
+PBBS-time: 0.000466
+
+PBBS-time: 0.000394
+
+PBBS-time: 0.000439
+
+PBBS-time: 0.000405
+
+PBBS-time: 0.000493
+
+PBBS-time: 0.000403
+
+PBBS-time: 0.000418
+
+PBBS-time: 0.000375
+
+PBBS-time: 0.000429
+
+PBBS-time: 0.000411
+
+PBBS-time: 0.000414
+
+PBBS-time: 0.000416
+
+PBBS-time: 0.000419
+
+PBBS-time: 0.000431
+
+PBBS-time: 0.000413
+
+PBBS-time: 0.000398
+
+PBBS-time: 0.00046
+
+PBBS-time: 0.000445
+
+PBBS-time: 0.000498
+
+PBBS-time: 0.000354
+
+PBBS-time: 0.000475
+
+PBBS-time: 0.000454
+
+PBBS-time: 0.000418
+
+PBBS-time: 0.000411
+
+PBBS-time: 0.000371
+
+PBBS-time: 0.000396
+
+0.000830000 secs <= obs < 0.000840000 secs, count: 1
+0.000840000 secs <= obs < 0.000850000 secs, count: 2
+0.000850000 secs <= obs < 0.000860000 secs, count: 1
+0.000870000 secs <= obs < 0.000880000 secs, count: 1
+0.000880000 secs <= obs < 0.000890000 secs, count: 2
+0.000890000 secs <= obs < 0.000900000 secs, count: 3
+0.000900000 secs <= obs < 0.000910000 secs, count: 2
+0.000910000 secs <= obs < 0.000920000 secs, count: 2
+0.000920000 secs <= obs < 0.000930000 secs, count: 2
+0.000930000 secs <= obs < 0.000940000 secs, count: 4
+0.000940000 secs <= obs < 0.000950000 secs, count: 4
+0.000950000 secs <= obs < 0.000960000 secs, count: 5
+0.000960000 secs <= obs < 0.000970000 secs, count: 2
+0.000980000 secs <= obs < 0.000990000 secs, count: 3
+0.000990000 secs <= obs < 0.001000000 secs, count: 3
+0.001000000 secs <= obs < 0.001010000 secs, count: 2
+0.001010000 secs <= obs < 0.001020000 secs, count: 2
+0.001020000 secs <= obs < 0.001030000 secs, count: 2
+0.001030000 secs <= obs < 0.001040000 secs, count: 1
+0.001040000 secs <= obs < 0.001050000 secs, count: 1
+0.001050000 secs <= obs < 0.001060000 secs, count: 1
+0.001070000 secs <= obs < 0.001080000 secs, count: 1
+0.001080000 secs <= obs < 0.001090000 secs, count: 1
+0.001110000 secs <= obs < 0.001120000 secs, count: 1
+0.001200000 secs <= obs < 0.001210000 secs, count: 1
+Max Observation: 0.001201355 secs
+
+0.000010000 | 0.001201355 | 0.000960723
